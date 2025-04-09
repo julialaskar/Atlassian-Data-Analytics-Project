@@ -1,5 +1,4 @@
 # Atlassian-Data-Analytics-Project: Jira Sprint Performance & Developer Productivity
-This portfolio project demonstrates my ability to analyze real-world SaaS/DevOps data from Atlassian's Jira platform, showcasing skills in SQL, Python, data visualization, and deriving actionable insights - all critical competencies for data roles at Atlassian.
 
 ## Project Overview
 
@@ -204,3 +203,4 @@ The combination of technical implementation (SQL/Python) and business-focused vi
 ---
 
 **Note:** The complete project including all code, SQL queries, and Tableau workbook is available in the linked Google Colab notebook and accompanying files. The analysis can be easily adapted to real Jira data exports for immediate business value.
+You can find it here https://colab.research.google.com/drive/1GFCXBP7L3gNNqEJam4mipRalIsLXpqig?authuser=0#scrollTo=KdTOk4EkIt-H
