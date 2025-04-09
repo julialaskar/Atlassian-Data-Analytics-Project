@@ -1,0 +1,16 @@
+developer_id,name,team,join_date,email,active
+1,Eric Rich,QA,2024-12-10,robert90@example.org,False
+2,Diane Vance,UI/UX,2023-11-15,mooremeghan@example.org,True
+3,Lori Phillips,DevOps,2025-03-05,amypeck@example.com,False
+4,Jessica Mccarty,UI/UX,2025-04-02,gavin52@example.net,True
+5,Kimberly Beltran,UI/UX,2024-07-31,dianawilliams@example.com,True
+6,Michele Stephens,Frontend,2025-01-04,jennifercole@example.net,True
+7,Cheryl Carrillo,DevOps,2024-12-15,wthompson@example.net,True
+8,Scott Sparks,DevOps,2023-12-08,timothy11@example.org,True
+9,Katherine Horton,DevOps,2023-06-18,sabrinahubbard@example.net,True
+10,Larry Trevino,UI/UX,2023-09-14,logan70@example.com,True
+11,Jennifer Graham,QA,2023-12-07,williamsmichael@example.org,False
+12,Selena Moreno,DevOps,2024-11-24,evanselizabeth@example.com,True
+13,Michael Perry,UI/UX,2024-09-03,tthomas@example.com,True
+14,Daniel Stuart,Frontend,2023-07-07,robersonchristina@example.net,True
+15,Matthew Alexander,QA,2025-02-21,corey62@example.net,True

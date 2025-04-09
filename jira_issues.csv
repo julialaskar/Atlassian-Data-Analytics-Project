@@ -1,0 +1,1001 @@
+issue_id,title,project,issue_type,priority,status,assignee_id,story_points,sprint_id,created_date,reporter_id,resolved_date,time_estimate,time_spent
+1,Probably service research,DEV,Bug,High,In Review,3,1,6,2025-04-08 14:07:06.393929,11,,26.0,28.8
+2,Young last build bring weight,DEV,Bug,Medium,Done,2,21,10,2025-04-08 14:06:43.819535,6,2025-04-27 14:06:43.819535,2.6,2.9
+3,Radio team so tree southern,MOBILE,Story,Critical,In Progress,2,5,1,2025-04-08 14:09:42.360319,4,,3.7,5.5
+4,Let today style,DEV,Story,High,To Do,8,2,7,2025-04-08 14:07:51.533360,13,,28.8,0.0
+5,Film society toward west recent specific,DEV,Task,Medium,In Review,1,2,10,2025-04-08 14:08:33.949817,4,,2.0,0.9
+6,Produce right per,WEB,Story,Critical,To Do,8,1,2,2025-04-08 14:04:35.858984,15,,23.6,0.0
+7,Congress choose model well by,DEV,Story,Medium,Done,9,5,5,2025-04-08 14:08:21.454960,2,2025-04-16 14:08:21.454960,33.8,32.7
+8,Record product project truth,DATA,Bug,High,In Progress,6,2,7,2025-04-08 14:08:36.229533,1,,15.8,20.3
+9,Soldier choice law general business,MOBILE,Task,Medium,Done,1,5,10,2025-04-08 14:09:38.134270,3,2025-04-12 14:09:38.134270,2.7,2.3
+10,List debate ok pretty describe industry,DEV,Task,High,In Progress,10,1,9,2025-04-08 14:05:40.576528,10,,28.8,34.1
+11,Kid view serve,DEV,Epic,High,In Progress,12,1,1,2025-04-08 14:10:26.800688,5,,37.3,23.2
+12,Save today never,WEB,Epic,Low,Done,7,2,9,2025-04-08 14:05:43.283494,12,2025-04-17 14:05:43.283494,29.0,25.7
+13,Operation technology probably run maintain,DEV,Task,Medium,In Progress,15,1,5,2025-04-08 14:04:50.121986,9,,23.6,2.0
+14,Teacher challenge past answer believe,MOBILE,Task,Low,Done,15,3,6,2025-04-08 14:04:54.470360,14,2025-04-16 14:04:54.470360,10.0,14.8
+15,Commercial figure either blood attention address,WEB,Bug,Critical,In Progress,5,1,8,2025-04-08 14:10:08.424072,15,,1.6,1.9
+16,Return table mean might dinner thus,WEB,Bug,Medium,To Do,15,5,2,2025-04-08 14:07:47.033163,7,,28.1,0.0
+17,Message skin ready wall mother,DATA,Task,Medium,In Progress,9,5,7,2025-04-08 14:06:47.656577,4,,10.0,13.0
+18,Rise describe area,DEV,Task,High,In Review,7,1,4,2025-04-08 14:07:13.727831,8,,34.5,35.9
+19,Finally scientist character however conference,WEB,Task,Medium,Done,5,2,9,2025-04-08 14:07:11.160937,12,2025-04-27 14:07:11.160937,19.2,5.4
+20,Democrat catch marriage community strong week,MOBILE,Task,Medium,In Progress,13,2,6,2025-04-08 14:07:22.020870,4,,21.7,1.0
+21,Least especially money since four,OPS,Story,Medium,In Progress,2,3,7,2025-04-08 14:10:32.800723,6,,30.4,39.4
+22,Fear care leave describe type,MOBILE,Story,Medium,Done,14,2,6,2025-04-08 14:08:32.092743,12,2025-04-09 14:08:32.092743,31.4,18.7
+23,Outside during garden him specific sing,MOBILE,Story,Medium,Done,4,1,8,2025-04-08 14:04:50.913900,1,2025-04-12 14:04:50.913900,26.1,10.3
+24,Marriage before gun,DEV,Bug,Medium,In Review,2,1,6,2025-04-08 14:04:42.511217,14,,37.6,31.7
+25,Edge onto home level,WEB,Story,Medium,In Progress,9,2,7,2025-04-08 14:05:55.301404,6,,39.3,24.8
+26,Size yourself popular art,DEV,Epic,Low,In Progress,2,13,8,2025-04-08 14:04:41.118401,10,,37.9,37.0
+27,Movie security send article ahead,MOBILE,Bug,Medium,In Progress,2,5,1,2025-04-08 14:06:10.993083,5,,33.1,24.0
+28,Society ok claim,DEV,Task,Medium,To Do,2,1,10,2025-04-08 14:09:13.304038,14,,28.5,0.0
+29,Skin remember son,DEV,Epic,Medium,Done,1,3,4,2025-04-08 14:08:05.330438,2,2025-04-18 14:08:05.330438,26.9,28.1
+30,Face once police weight loss,DATA,Task,Medium,To Do,9,8,6,2025-04-08 14:09:10.893986,1,,5.0,0.0
+31,Newspaper main key crime resource,DEV,Task,Medium,Done,8,1,1,2025-04-08 14:10:19.031467,13,2025-04-16 14:10:19.031467,11.6,14.8
+32,Professional drive rise road defense,DEV,Bug,Critical,In Progress,2,3,4,2025-04-08 14:05:09.248541,6,,1.2,0.4
+33,Truth national those project,DEV,Task,Medium,Done,2,2,6,2025-04-08 14:07:57.394105,11,2025-04-11 14:07:57.394105,6.4,3.2
+34,Interview PM activity forward else answer,DEV,Task,Medium,To Do,5,3,7,2025-04-08 14:08:41.623162,2,,18.1,0.0
+35,Rate oil teach,WEB,Bug,Medium,To Do,12,3,6,2025-04-08 14:06:07.408403,9,,6.7,0.0
+36,Speak skill decade range letter religious,DEV,Task,Medium,In Progress,13,21,4,2025-04-08 14:04:44.619599,9,,36.2,23.7
+37,Make itself finally each local avoid,DEV,Bug,Medium,Done,14,1,7,2025-04-08 14:09:39.294766,1,2025-04-20 14:09:39.294766,32.4,46.8
+38,Receive under home six,DEV,Story,Low,In Progress,12,5,10,2025-04-08 14:07:56.429201,15,,3.8,2.1
+39,Loss recognize general play,DEV,Epic,Medium,Done,14,1,2,2025-04-08 14:10:34.510611,5,2025-04-17 14:10:34.510611,10.7,6.1
+40,Short participant agent training difficult,DEV,Task,Medium,In Progress,4,2,6,2025-04-08 14:07:41.867332,8,,32.9,32.2
+41,Key contain perhaps piece,WEB,Task,Medium,To Do,2,13,5,2025-04-08 14:09:44.599751,4,,32.3,0.0
+42,Door day movement medical,DEV,Task,High,To Do,8,5,2,2025-04-08 14:07:20.416613,3,,37.9,0.0
+43,Break color class health,DEV,Bug,Low,Done,8,2,9,2025-04-08 14:07:21.971114,5,2025-04-11 14:07:21.971114,39.9,25.1
+44,Bed news pick sort hold,OPS,Epic,Medium,In Review,13,3,7,2025-04-08 14:06:22.052491,5,,39.1,55.8
+45,It shoulder we foot manager,OPS,Bug,Medium,In Review,4,1,3,2025-04-08 14:10:03.614138,8,,17.0,22.8
+46,Suggest film carry moment administration high,DEV,Bug,Medium,In Progress,14,1,7,2025-04-08 14:04:42.115913,6,,10.8,8.3
+47,Leader now born,DEV,Task,Critical,In Progress,4,3,6,2025-04-08 14:05:31.292250,15,,30.6,29.6
+48,Operation black out,WEB,Task,Low,In Review,9,3,7,2025-04-08 14:05:33.529518,2,,12.7,1.1
+49,Hot medical have loss responsibility expect,MOBILE,Task,Medium,In Progress,4,2,4,2025-04-08 14:06:55.110520,11,,32.4,33.8
+50,Season than line away production thus,DATA,Bug,Medium,In Progress,15,3,10,2025-04-08 14:07:16.426583,1,,21.8,23.1
+51,Your participant bar business conference,DEV,Story,Critical,To Do,10,2,8,2025-04-08 14:05:47.121548,13,,32.0,0.0
+52,Least Mrs risk,MOBILE,Task,Medium,Done,11,1,8,2025-04-08 14:07:48.318075,3,2025-04-12 14:07:48.318075,11.8,6.4
+53,Sometimes method example,OPS,Bug,Critical,To Do,9,2,7,2025-04-08 14:06:59.342842,2,,20.8,0.0
+54,Pressure peace fall however,WEB,Task,Medium,In Progress,3,8,7,2025-04-08 14:06:29.032456,4,,23.0,7.6
+55,Have decision might you role,DEV,Bug,Medium,In Progress,2,5,10,2025-04-08 14:08:44.337146,3,,37.8,51.9
+56,Certain official doctor attack state,DEV,Task,High,Done,15,2,8,2025-04-08 14:07:28.101008,15,2025-04-14 14:07:28.101008,11.4,7.3
+57,Senior hope second think technology,DEV,Task,Medium,Done,11,1,1,2025-04-08 14:07:20.347345,15,2025-04-17 14:07:20.347345,37.5,36.8
+58,Score peace night business,DEV,Story,Medium,In Progress,8,3,6,2025-04-08 14:06:19.123291,9,,32.4,1.6
+59,Good agent store up,MOBILE,Bug,Low,In Progress,12,3,2,2025-04-08 14:08:24.059521,15,,29.5,18.3
+60,Hotel remain doctor which air goal,DEV,Bug,Medium,To Do,3,1,1,2025-04-08 14:09:39.581481,5,,31.7,0.0
+61,Data with grow region yet,DEV,Bug,Medium,Done,13,2,10,2025-04-08 14:06:59.085325,4,2025-04-10 14:06:59.085325,24.6,30.2
+62,Black point take leg,OPS,Bug,Medium,Done,2,21,7,2025-04-08 14:05:03.424412,10,2025-04-10 14:05:03.424412,10.5,6.1
+63,Cup identify sit like she do,WEB,Bug,Low,In Progress,13,3,6,2025-04-08 14:10:25.267822,9,,8.4,7.6
+64,Town thousand true call,DEV,Task,Medium,In Progress,11,2,5,2025-04-08 14:07:30.851050,4,,34.8,11.0
+65,Single discuss dinner agree tree,DEV,Bug,Medium,Done,8,3,5,2025-04-08 14:07:10.405735,6,2025-04-26 14:07:10.405735,29.3,18.3
+66,Democrat challenge thank family health really,DEV,Task,Critical,Done,15,1,9,2025-04-08 14:08:52.636196,14,2025-04-11 14:08:52.636196,9.3,12.9
+67,Later friend rate how of soon,DEV,Task,Medium,In Review,8,1,9,2025-04-08 14:10:29.857224,10,,25.0,21.2
+68,Sometimes song at ball once reach,OPS,Bug,Low,Done,5,8,6,2025-04-08 14:06:27.109211,1,2025-04-11 14:06:27.109211,18.5,25.0
+69,Available you else,DEV,Task,Medium,To Do,9,1,3,2025-04-08 14:08:03.032884,15,,7.2,0.0
+70,I hospital group similar performance grow,WEB,Bug,High,Done,11,2,7,2025-04-08 14:07:09.752574,13,2025-04-26 14:07:09.752574,21.7,29.4
+71,Involve main shake car drive camera,DEV,Task,Medium,In Progress,6,2,4,2025-04-08 14:06:02.409572,2,,12.0,17.0
+72,Official sport ten Congress necessary practice,DATA,Task,High,Done,5,5,5,2025-04-08 14:07:05.689335,15,2025-04-14 14:07:05.689335,4.8,6.4
+73,Bill four picture college from choice,MOBILE,Bug,Low,To Do,12,5,7,2025-04-08 14:06:27.898738,4,,19.2,0.0
+74,Walk institution director now create,DATA,Task,Medium,Done,3,1,7,2025-04-08 14:07:04.871154,9,2025-04-09 14:07:04.871154,24.0,0.1
+75,Story reach subject,DEV,Bug,Medium,Done,7,3,10,2025-04-08 14:04:46.468452,6,2025-04-23 14:04:46.468452,2.8,3.9
+76,Rest soldier store walk party investment,OPS,Story,Medium,Done,14,2,8,2025-04-08 14:08:59.456906,6,2025-04-19 14:08:59.456906,16.7,3.4
+77,Record discuss receive rest sometimes,OPS,Epic,Low,To Do,15,2,1,2025-04-08 14:10:20.585834,11,,11.0,0.0
+78,Information series step politics product scene,MOBILE,Bug,Low,To Do,9,3,5,2025-04-08 14:08:41.564566,9,,2.2,0.0
+79,Behind use assume tree discuss statement young,DEV,Task,Critical,Done,4,1,9,2025-04-08 14:05:59.398382,12,2025-04-18 14:05:59.398382,5.9,0.4
+80,Also music agree figure suddenly generation,DEV,Bug,Low,Done,11,21,7,2025-04-08 14:09:10.554410,4,2025-04-12 14:09:10.554410,6.4,0.5
+81,Memory here out spring safe,DEV,Bug,Low,To Do,7,3,2,2025-04-08 14:10:06.907603,3,,8.1,0.0
+82,Hear give ask its learn,DEV,Bug,Medium,To Do,12,2,1,2025-04-08 14:04:44.802860,7,,32.3,0.0
+83,As organization hope cause out,MOBILE,Story,Low,In Progress,3,3,8,2025-04-08 14:09:16.719493,12,,18.1,9.5
+84,Result history nearly,WEB,Task,Medium,In Review,11,1,9,2025-04-08 14:07:01.031029,15,,6.7,6.2
+85,Beat this court early support old,WEB,Epic,Medium,Done,2,3,10,2025-04-08 14:10:07.223679,7,2025-04-22 14:10:07.223679,4.9,3.0
+86,Finish institution themselves support result,DEV,Task,High,Done,13,1,5,2025-04-08 14:10:04.153176,9,2025-04-10 14:10:04.153176,12.6,0.5
+87,Beautiful day cup,DEV,Bug,Medium,Done,11,2,6,2025-04-08 14:07:29.261398,15,2025-04-21 14:07:29.261398,32.1,22.9
+88,My investment serve business pick line,DEV,Story,Critical,In Progress,1,3,2,2025-04-08 14:05:49.311578,6,,15.2,10.1
+89,Both no pressure language,WEB,Epic,Low,In Progress,6,5,5,2025-04-08 14:04:39.538321,2,,7.2,8.2
+90,Rest executive ability stock,MOBILE,Story,Low,Done,5,1,4,2025-04-08 14:08:20.140824,6,2025-04-24 14:08:20.140824,16.8,7.0
+91,Box culture yes set than,DEV,Story,Medium,Done,2,2,8,2025-04-08 14:07:53.476480,15,2025-04-20 14:07:53.476480,22.7,7.4
+92,Race avoid always strong,MOBILE,Task,Medium,In Progress,13,2,8,2025-04-08 14:06:41.747565,8,,2.2,0.8
+93,Month street go front reason,WEB,Bug,Medium,Done,13,2,5,2025-04-08 14:05:20.545655,6,2025-04-13 14:05:20.545655,25.5,11.6
+94,Management travel without practice front none,OPS,Bug,Medium,Done,3,1,8,2025-04-08 14:08:24.205851,9,2025-04-27 14:08:24.205851,16.4,14.7
+95,Design hair such run,DEV,Task,Medium,In Review,9,3,6,2025-04-08 14:06:25.899254,15,,1.4,1.0
+96,But rate beat color new clearly,WEB,Epic,Medium,Done,3,1,10,2025-04-08 14:05:28.334852,4,2025-04-11 14:05:28.334852,27.3,13.8
+97,Economy toward able step,DEV,Story,High,Done,7,8,6,2025-04-08 14:09:49.412267,3,2025-04-28 14:09:49.412267,28.8,16.2
+98,Choice place thought,DEV,Story,High,In Progress,1,2,4,2025-04-08 14:08:10.831343,11,,25.5,14.2
+99,Program laugh hospital drug,WEB,Bug,Medium,To Do,7,5,10,2025-04-08 14:09:34.292331,5,,14.3,0.0
+100,Allow boy hour do around organization,MOBILE,Task,Medium,In Progress,9,1,3,2025-04-08 14:07:48.789141,3,,21.7,31.7
+101,Here common network,DEV,Story,Low,Done,12,5,9,2025-04-08 14:10:34.416333,11,2025-04-10 14:10:34.416333,16.1,5.6
+102,Maybe on sign day war,DEV,Task,Medium,To Do,11,1,5,2025-04-08 14:10:33.223645,12,,28.3,0.0
+103,Subject oil term,MOBILE,Task,Critical,In Progress,8,5,10,2025-04-08 14:07:37.946310,2,,23.8,29.2
+104,Capital must maybe great,DEV,Story,Medium,Done,7,2,10,2025-04-08 14:06:28.650038,2,2025-04-25 14:06:28.650038,4.2,4.5
+105,Security probably agent lawyer bag,WEB,Task,Medium,In Progress,10,2,4,2025-04-08 14:05:59.714001,4,,26.1,0.2
+106,Eat push would could everything wind,OPS,Epic,Medium,To Do,14,1,6,2025-04-08 14:06:19.189587,3,,27.8,0.0
+107,Support hear become,WEB,Task,Medium,In Progress,8,1,4,2025-04-08 14:06:03.784859,9,,15.5,23.1
+108,Particularly pass place our ask relate,MOBILE,Bug,Medium,In Review,13,3,6,2025-04-08 14:05:46.678365,14,,35.2,39.9
+109,Today speak billion song list,MOBILE,Task,Medium,In Progress,4,3,10,2025-04-08 14:07:45.351563,7,,33.9,34.7
+110,Side individual security allow,OPS,Bug,Critical,To Do,15,3,8,2025-04-08 14:08:00.518629,6,,7.8,0.0
+111,Close act box not feeling,MOBILE,Task,Medium,In Progress,2,1,8,2025-04-08 14:09:06.474806,10,,36.3,22.1
+112,There hospital treatment part,DEV,Bug,High,Done,14,1,6,2025-04-08 14:08:43.709685,12,2025-04-19 14:08:43.709685,18.2,15.2
+113,Give crime game PM national maybe,DEV,Epic,Critical,In Progress,14,5,1,2025-04-08 14:07:05.573930,8,,29.2,11.1
+114,Send level everybody buy discussion,DATA,Story,High,Done,11,5,1,2025-04-08 14:08:27.065900,9,2025-04-09 14:08:27.065900,32.7,1.7
+115,Product some fine newspaper cover,DEV,Bug,High,Done,9,2,3,2025-04-08 14:10:34.271196,3,2025-04-27 14:10:34.271196,20.7,26.0
+116,Must draw product teacher,WEB,Bug,Low,To Do,15,3,2,2025-04-08 14:08:03.057900,12,,16.6,0.0
+117,Hard summer and buy car list,OPS,Task,High,In Progress,3,5,1,2025-04-08 14:07:54.134146,10,,36.7,49.4
+118,Likely risk born,WEB,Story,High,Done,14,5,1,2025-04-08 14:08:58.886571,7,2025-04-16 14:08:58.886571,10.0,2.4
+119,Water goal economic mention just financial,DEV,Bug,Low,In Progress,11,1,6,2025-04-08 14:10:05.313012,9,,11.0,13.0
+120,Citizen all size act some,DEV,Bug,Medium,Done,4,5,7,2025-04-08 14:05:52.413077,1,2025-04-19 14:05:52.413077,15.1,16.8
+121,Because wonder school economy effort,DEV,Task,Medium,To Do,7,2,8,2025-04-08 14:09:20.075984,10,,34.5,0.0
+122,Gas through challenge,DEV,Task,Medium,Done,2,3,3,2025-04-08 14:10:17.087657,9,2025-04-16 14:10:17.087657,37.6,10.1
+123,Onto couple film role,DATA,Bug,Medium,In Progress,14,2,1,2025-04-08 14:07:34.293038,14,,9.6,6.1
+124,Like throw beyond friend pressure,MOBILE,Story,Medium,In Progress,15,3,5,2025-04-08 14:05:46.007665,7,,34.7,22.0
+125,Foreign recognize computer charge,MOBILE,Epic,High,In Progress,8,3,8,2025-04-08 14:04:47.052204,10,,11.1,12.7
+126,Believe adult food program keep material,WEB,Bug,Low,Done,12,2,4,2025-04-08 14:06:22.260578,14,2025-04-25 14:06:22.260578,38.9,48.9
+127,When crime idea finish,DEV,Task,High,In Progress,10,2,2,2025-04-08 14:05:19.717132,4,,24.3,3.5
+128,Picture beat want son,DEV,Bug,High,To Do,8,3,9,2025-04-08 14:09:36.777783,13,,1.3,0.0
+129,Environmental specific authority maybe example range,DEV,Bug,Medium,To Do,12,2,9,2025-04-08 14:08:25.676203,15,,2.3,0.0
+130,Fear step sort,WEB,Bug,Medium,To Do,5,1,3,2025-04-08 14:06:09.743881,11,,6.8,0.0
+131,Ahead cost anyone range deal,WEB,Task,Medium,To Do,9,1,7,2025-04-08 14:04:50.308854,12,,8.3,0.0
+132,Form company data about take economic,WEB,Story,Low,Done,8,3,1,2025-04-08 14:05:22.697416,6,2025-04-28 14:05:22.697416,30.9,26.1
+133,Return baby own race fire,WEB,Task,Low,Done,1,5,8,2025-04-08 14:06:26.362268,11,2025-04-14 14:06:26.362268,9.7,11.1
+134,Collection management people career,DATA,Bug,Medium,To Do,9,5,8,2025-04-08 14:06:21.800488,11,,38.8,0.0
+135,Music authority benefit seat fast later,DEV,Bug,High,To Do,13,2,3,2025-04-08 14:07:49.359003,6,,25.8,0.0
+136,Walk city foot ground,MOBILE,Task,Low,In Progress,14,2,5,2025-04-08 14:04:42.538289,6,,28.0,33.0
+137,Design seven really,DEV,Bug,Medium,In Progress,14,1,4,2025-04-08 14:10:11.488335,15,,9.5,2.1
+138,Management among north,WEB,Task,High,Done,5,21,7,2025-04-08 14:10:27.776728,2,2025-04-15 14:10:27.776728,35.8,28.2
+139,Want year range,DEV,Task,Medium,Done,9,1,7,2025-04-08 14:05:56.541363,5,2025-04-21 14:05:56.541363,27.0,34.7
+140,Strategy under middle weight successful environment,WEB,Epic,Medium,In Progress,9,2,8,2025-04-08 14:09:11.707079,7,,34.7,16.6
+141,Sit role hospital third,DEV,Bug,Critical,In Review,10,3,5,2025-04-08 14:07:00.550754,6,,38.3,24.4
+142,Seek class rate poor,DEV,Task,Medium,In Progress,10,5,5,2025-04-08 14:09:42.810060,3,,5.9,7.1
+143,Security course sport,OPS,Bug,Low,Done,3,1,8,2025-04-08 14:07:14.092449,11,2025-04-15 14:07:14.092449,4.8,0.6
+144,Though matter sea task,DEV,Task,High,Done,8,2,5,2025-04-08 14:10:27.185388,12,2025-04-19 14:10:27.185388,32.3,41.6
+145,Each myself though nation scientist special,DEV,Task,Medium,Done,7,3,1,2025-04-08 14:05:02.440618,5,2025-04-18 14:05:02.440618,34.8,16.2
+146,Those fish car,WEB,Story,Medium,In Progress,15,3,3,2025-04-08 14:07:17.505545,13,,23.8,0.1
+147,Relate dream challenge heart adult message,WEB,Task,Medium,In Review,7,1,2,2025-04-08 14:05:13.815684,8,,15.3,5.4
+148,Anyone five woman,MOBILE,Task,High,To Do,12,3,10,2025-04-08 14:09:33.348320,11,,26.5,0.0
+149,Song garden month give year rather,WEB,Bug,Medium,To Do,10,2,5,2025-04-08 14:08:17.146886,5,,12.9,0.0
+150,Girl sea throughout kind carry half,DEV,Bug,Medium,In Progress,2,5,8,2025-04-08 14:06:31.831825,12,,10.3,1.4
+151,Life word too political,DEV,Task,Low,In Progress,2,1,9,2025-04-08 14:05:31.397378,10,,20.0,2.8
+152,Call history international dinner,MOBILE,Story,Low,In Review,2,1,9,2025-04-08 14:08:57.447267,3,,9.4,9.8
+153,Rich it ground local,DEV,Task,Low,In Progress,13,5,1,2025-04-08 14:08:21.294359,9,,19.9,6.4
+154,Contain place as law commercial training south,OPS,Story,High,In Review,11,3,1,2025-04-08 14:05:07.873277,11,,38.3,53.7
+155,Name move half natural job,DEV,Bug,Critical,To Do,2,5,1,2025-04-08 14:08:57.406707,3,,33.8,0.0
+156,Past contain peace,MOBILE,Task,Medium,Done,14,5,1,2025-04-08 14:06:14.205512,2,2025-04-16 14:06:14.205512,37.7,29.2
+157,Artist arm from,DATA,Task,Medium,In Progress,4,1,9,2025-04-08 14:10:15.555874,6,,32.4,22.4
+158,Everyone can sometimes seat,MOBILE,Bug,Low,Done,7,1,1,2025-04-08 14:08:58.957857,8,2025-04-18 14:08:58.957857,14.8,9.6
+159,Thought difficult conference how strategy,WEB,Task,Medium,Done,2,1,7,2025-04-08 14:06:48.463745,6,2025-04-19 14:06:48.463745,32.7,34.0
+160,Become stay glass,WEB,Story,Medium,Done,5,8,6,2025-04-08 14:05:30.734041,1,2025-04-28 14:05:30.734041,37.0,25.1
+161,Quickly behind stage,WEB,Task,Critical,To Do,14,2,9,2025-04-08 14:08:10.035708,8,,37.9,0.0
+162,Likely bill compare already,WEB,Task,Low,To Do,7,1,9,2025-04-08 14:09:00.596814,1,,27.6,0.0
+163,Crime time reflect current,DEV,Story,High,Done,9,1,4,2025-04-08 14:06:09.429234,9,2025-04-25 14:06:09.429234,9.2,1.8
+164,Agency hear rate concern,MOBILE,Task,Critical,Done,8,5,9,2025-04-08 14:07:22.869001,8,2025-04-19 14:07:22.869001,2.5,3.3
+165,Visit old could performance change method,DEV,Story,Low,In Progress,9,5,6,2025-04-08 14:07:30.307505,6,,6.7,4.3
+166,Central church investment standard,DEV,Task,Medium,In Progress,7,8,5,2025-04-08 14:05:53.361702,15,,38.7,4.3
+167,Dream control think,MOBILE,Bug,High,In Progress,3,2,9,2025-04-08 14:09:30.752347,2,,19.0,15.1
+168,Beautiful beautiful international section upon,DEV,Bug,Medium,In Progress,1,3,7,2025-04-08 14:08:55.597202,13,,34.3,33.3
+169,Hold least third ask sing,MOBILE,Bug,Critical,In Progress,10,1,9,2025-04-08 14:08:53.040284,9,,19.1,7.9
+170,Whether organization resource painting happen mother,OPS,Story,Medium,Done,7,1,5,2025-04-08 14:10:34.473942,8,2025-04-24 14:10:34.473942,26.8,32.2
+171,Information leave it,DATA,Story,High,In Progress,13,1,4,2025-04-08 14:06:17.243876,13,,1.9,1.9
+172,Sometimes maintain real example hotel,MOBILE,Bug,Low,Done,11,1,10,2025-04-08 14:10:32.147645,4,2025-04-13 14:10:32.147645,10.7,10.4
+173,Candidate east manage answer hold,WEB,Bug,Medium,Done,6,3,3,2025-04-08 14:05:06.717323,2,2025-04-18 14:05:06.717323,18.0,11.4
+174,Term traditional fund science fund,DEV,Task,Medium,Done,2,8,5,2025-04-08 14:09:00.270943,13,2025-04-28 14:09:00.270943,25.6,36.9
+175,Billion guy hair win various,WEB,Task,Critical,In Progress,1,1,9,2025-04-08 14:09:40.742533,14,,7.7,3.2
+176,Among article movement parent,DEV,Task,High,To Do,12,8,3,2025-04-08 14:07:50.659694,15,,30.8,0.0
+177,Law indicate weight better must,DEV,Task,Medium,To Do,10,2,1,2025-04-08 14:08:30.366982,6,,15.2,0.0
+178,Suffer discussion way,MOBILE,Story,Medium,In Progress,4,2,2,2025-04-08 14:05:31.233287,1,,32.9,28.5
+179,Anyone coach national fact,DEV,Task,High,In Progress,14,2,10,2025-04-08 14:09:13.051037,7,,4.8,2.2
+180,Form nice me million significant,DEV,Epic,Medium,Done,4,2,5,2025-04-08 14:07:06.336636,1,2025-04-13 14:07:06.336636,27.5,30.7
+181,Democrat career environmental,MOBILE,Bug,Low,Done,6,1,3,2025-04-08 14:10:10.320290,15,2025-04-28 14:10:10.320290,12.4,0.9
+182,When various value someone,DEV,Epic,Medium,To Do,11,3,6,2025-04-08 14:06:20.916288,13,,32.0,0.0
+183,Everybody girl pick commercial raise,DEV,Bug,High,Done,5,5,8,2025-04-08 14:07:15.809777,6,2025-04-17 14:07:15.809777,16.7,1.1
+184,Chair son turn,DEV,Bug,Medium,In Progress,9,5,6,2025-04-08 14:09:33.661270,5,,26.9,32.7
+185,Usually break buy best real already,MOBILE,Story,Medium,Done,8,2,10,2025-04-08 14:06:35.899527,12,2025-04-11 14:06:35.899527,37.4,24.4
+186,Cause decade American southern whole,MOBILE,Story,Critical,In Review,9,5,9,2025-04-08 14:09:40.088971,10,,1.8,0.9
+187,Discover certainly Mr peace hand,MOBILE,Story,Medium,In Review,10,3,6,2025-04-08 14:09:49.867731,14,,1.4,1.3
+188,People moment movie,DEV,Task,Medium,Done,7,13,5,2025-04-08 14:07:44.105015,3,2025-04-11 14:07:44.105015,31.0,32.6
+189,Adult very community conference imagine,MOBILE,Epic,Low,To Do,9,2,4,2025-04-08 14:09:20.567135,6,,26.2,0.0
+190,Oil big visit sometimes that,WEB,Bug,Medium,Done,3,21,2,2025-04-08 14:09:19.681037,4,2025-04-18 14:09:19.681037,12.4,3.7
+191,Pm management international notice wear really,DEV,Bug,High,In Progress,9,3,6,2025-04-08 14:08:32.191264,14,,20.3,5.6
+192,Yes something thought,WEB,Task,Medium,Done,2,5,2,2025-04-08 14:09:29.941372,12,2025-04-15 14:09:29.941372,2.6,3.7
+193,Mission stage role policy,WEB,Story,High,Done,9,1,5,2025-04-08 14:08:45.436592,6,2025-04-10 14:08:45.436592,8.5,7.5
+194,Thank management former listen,WEB,Task,High,Done,13,2,1,2025-04-08 14:08:25.041831,4,2025-04-16 14:08:25.041831,17.6,10.3
+195,Real admit night,MOBILE,Task,Medium,In Review,6,2,3,2025-04-08 14:07:13.336929,15,,33.5,40.3
+196,Factor debate almost cause out,DEV,Bug,Low,To Do,4,1,10,2025-04-08 14:10:04.035995,1,,19.7,0.0
+197,Well stock pressure memory,WEB,Bug,Low,Done,12,2,5,2025-04-08 14:08:15.445676,5,2025-04-20 14:08:15.445676,23.9,18.8
+198,View war keep me,WEB,Task,High,In Progress,14,13,7,2025-04-08 14:05:50.408161,8,,35.1,12.7
+199,Course let material listen,WEB,Task,Medium,Done,12,2,8,2025-04-08 14:06:39.518340,6,2025-04-17 14:06:39.518340,13.0,4.0
+200,We production election radio add heart,WEB,Task,High,Done,13,1,7,2025-04-08 14:05:24.993508,10,2025-04-19 14:05:24.993508,28.3,16.8
+201,Too agreement put,OPS,Task,High,To Do,11,2,7,2025-04-08 14:06:04.145626,9,,34.6,0.0
+202,Structure two song sometimes trip,OPS,Epic,Low,Done,2,1,2,2025-04-08 14:07:48.013229,4,2025-04-27 14:07:48.013229,8.9,11.5
+203,Development change happy sort meeting,MOBILE,Bug,Low,In Progress,13,2,6,2025-04-08 14:10:03.827327,10,,14.9,1.4
+204,Per home picture decade president,MOBILE,Task,High,In Progress,10,3,5,2025-04-08 14:09:37.608499,9,,39.2,12.8
+205,Drop several thousand difficult middle,DEV,Task,Critical,Done,3,2,9,2025-04-08 14:09:38.242140,8,2025-04-28 14:09:38.242140,39.3,52.7
+206,Reveal participant evidence,MOBILE,Task,High,In Progress,5,5,10,2025-04-08 14:10:23.533538,3,,9.7,1.8
+207,Talk several test likely,WEB,Task,Medium,In Review,9,1,4,2025-04-08 14:09:27.778172,14,,3.6,3.4
+208,Government financial indeed opportunity PM should,DEV,Epic,Low,To Do,7,5,7,2025-04-08 14:05:49.179888,6,,11.6,0.0
+209,Put accept pick,DEV,Task,High,Done,11,13,8,2025-04-08 14:06:29.741703,4,2025-04-25 14:06:29.741703,16.5,5.3
+210,Behind offer win food various month,DEV,Bug,Medium,To Do,12,1,6,2025-04-08 14:10:18.400007,1,,18.2,0.0
+211,They both organization care Congress with,DEV,Bug,High,In Review,13,5,3,2025-04-08 14:07:56.385141,9,,25.1,22.8
+212,Place animal along spring century price very,DEV,Story,Critical,Done,11,2,5,2025-04-08 14:07:41.880651,4,2025-04-21 14:07:41.880651,36.1,20.7
+213,Discover along late,DEV,Story,Medium,Done,3,2,1,2025-04-08 14:05:55.410188,11,2025-04-09 14:05:55.410188,13.9,2.1
+214,Chance discussion through,MOBILE,Bug,Low,Done,13,1,8,2025-04-08 14:07:16.404669,14,2025-04-09 14:07:16.404669,34.1,29.8
+215,Source grow measure school always suffer old,DEV,Bug,High,Done,4,2,2,2025-04-08 14:05:25.372552,5,2025-04-16 14:05:25.372552,4.6,4.7
+216,Enter all fly deal resource safe,DEV,Task,High,In Progress,14,13,10,2025-04-08 14:08:01.691447,3,,2.6,2.7
+217,Box cause sister,OPS,Task,High,Done,12,1,7,2025-04-08 14:05:08.023904,4,2025-04-21 14:05:08.023904,20.7,19.8
+218,Get anyone affect,DEV,Bug,Medium,Done,11,1,9,2025-04-08 14:10:29.604702,13,2025-04-14 14:10:29.604702,3.3,2.5
+219,Laugh enter store must my,OPS,Task,High,Done,2,1,1,2025-04-08 14:04:37.644560,9,2025-04-11 14:04:37.644560,16.3,12.7
+220,Down discuss first society suffer white,MOBILE,Task,Medium,In Progress,14,3,4,2025-04-08 14:09:22.411572,15,,36.0,34.3
+221,Yourself situation time look black,DEV,Epic,Medium,In Progress,8,8,7,2025-04-08 14:04:43.011262,7,,10.4,10.8
+222,Personal chair speak enough,DEV,Bug,High,In Progress,6,3,9,2025-04-08 14:10:15.881989,8,,28.5,28.0
+223,Republican kitchen turn nature ever,DEV,Story,Medium,Done,3,1,2,2025-04-08 14:07:30.494268,3,2025-04-24 14:07:30.494268,12.8,11.3
+224,After beyond can structure hospital final,DEV,Task,High,In Progress,13,2,2,2025-04-08 14:05:41.567490,15,,2.8,0.7
+225,History during relationship collection,DEV,Bug,Medium,Done,5,2,6,2025-04-08 14:04:51.487577,3,2025-04-18 14:04:51.487577,22.7,7.2
+226,Energy business she five,DEV,Task,Medium,In Review,5,1,3,2025-04-08 14:05:25.060071,15,,33.6,13.1
+227,Ability include authority next,DEV,Bug,Low,Done,12,2,4,2025-04-08 14:07:00.353975,14,2025-04-15 14:07:00.353975,17.0,23.5
+228,Specific public development heavy day,WEB,Task,Critical,Done,1,1,3,2025-04-08 14:05:54.768031,7,2025-04-11 14:05:54.768031,25.1,28.6
+229,People international tonight start significant majority,DEV,Task,Medium,Done,13,5,1,2025-04-08 14:09:05.743360,8,2025-04-22 14:09:05.743360,36.1,29.9
+230,Determine its base among coach four,MOBILE,Bug,Critical,Done,5,2,6,2025-04-08 14:04:44.059462,14,2025-04-24 14:04:44.059462,31.8,12.0
+231,Experience understand free,DEV,Bug,Low,Done,6,5,2,2025-04-08 14:06:30.028529,5,2025-04-12 14:06:30.028529,8.6,1.4
+232,Miss wrong fight member almost,MOBILE,Story,Medium,In Progress,10,13,2,2025-04-08 14:06:22.440144,1,,29.6,39.9
+233,Himself write attorney half he,DEV,Bug,Medium,To Do,10,8,7,2025-04-08 14:06:14.268955,3,,20.6,0.0
+234,Attention several personal,MOBILE,Task,Medium,Done,11,1,5,2025-04-08 14:07:21.972235,5,2025-04-21 14:07:21.972235,30.1,40.3
+235,Shake care leg,DEV,Task,Low,In Progress,11,8,8,2025-04-08 14:07:14.834691,3,,20.3,3.4
+236,Truth subject lot leader,WEB,Epic,Low,To Do,11,5,2,2025-04-08 14:10:02.423157,15,,6.0,0.0
+237,Cover perform short card discover,DEV,Task,Low,Done,13,5,10,2025-04-08 14:07:11.257756,14,2025-04-09 14:07:11.257756,23.2,27.7
+238,History practice choose loss today method,WEB,Task,Low,Done,2,1,8,2025-04-08 14:08:58.799884,1,2025-04-13 14:08:58.799884,20.2,13.5
+239,People success child many,DEV,Bug,Low,Done,3,1,7,2025-04-08 14:06:44.781267,7,2025-04-26 14:06:44.781267,21.2,10.3
+240,Special control employee foot sing,WEB,Bug,Medium,To Do,10,13,10,2025-04-08 14:08:50.571868,1,,35.3,0.0
+241,Major onto relationship trouble wear,DEV,Bug,Critical,To Do,5,1,8,2025-04-08 14:07:15.349688,10,,35.9,0.0
+242,Social send against war,WEB,Task,Critical,Done,14,1,3,2025-04-08 14:10:06.469642,13,2025-04-20 14:10:06.469642,18.7,20.7
+243,Blood what throughout,DEV,Task,Medium,Done,13,2,8,2025-04-08 14:06:53.650161,6,2025-04-19 14:06:53.650161,18.8,17.3
+244,Continue authority message herself discover,DEV,Task,Medium,To Do,3,8,6,2025-04-08 14:05:06.214075,6,,21.1,0.0
+245,Skin star arrive,WEB,Task,Medium,In Progress,5,2,2,2025-04-08 14:09:23.699855,14,,21.3,24.9
+246,Understand majority accept especially million sit,DATA,Task,High,To Do,5,8,6,2025-04-08 14:07:30.780673,7,,38.1,0.0
+247,Bar be serve firm ball group,WEB,Bug,Medium,Done,8,2,5,2025-04-08 14:09:19.367792,12,2025-04-17 14:09:19.367792,26.3,2.9
+248,Activity big school national Mrs,MOBILE,Bug,High,In Review,10,1,3,2025-04-08 14:05:34.818228,11,,11.8,5.6
+249,Week industry part line you color,WEB,Story,Medium,To Do,9,2,1,2025-04-08 14:06:51.528082,1,,21.7,0.0
+250,Those clear report total,WEB,Task,Medium,Done,8,3,7,2025-04-08 14:09:52.644444,11,2025-04-15 14:09:52.644444,25.5,12.2
+251,Power get near step travel notice,DEV,Task,High,In Progress,12,2,2,2025-04-08 14:06:02.920615,3,,26.0,12.9
+252,Budget find wrong second,DEV,Task,Low,Done,3,2,1,2025-04-08 14:10:11.619612,12,2025-04-22 14:10:11.619612,23.8,17.9
+253,Tough trip question time fall local,OPS,Task,Medium,Done,15,1,1,2025-04-08 14:05:22.839701,9,2025-04-11 14:05:22.839701,7.9,3.4
+254,Floor during tonight five set see,WEB,Bug,Low,In Progress,1,1,7,2025-04-08 14:06:10.222271,2,,2.3,1.5
+255,President impact open,MOBILE,Story,High,Done,14,3,1,2025-04-08 14:05:59.243791,14,2025-04-24 14:05:59.243791,14.2,7.8
+256,Woman six fight amount the,WEB,Task,High,In Progress,15,2,9,2025-04-08 14:05:30.089474,5,,17.7,19.5
+257,Note society speak,DEV,Bug,Critical,Done,3,1,6,2025-04-08 14:06:00.473896,3,2025-04-15 14:06:00.473896,3.4,3.1
+258,Into tell president,DEV,Story,Critical,To Do,1,1,4,2025-04-08 14:07:33.528339,12,,32.8,0.0
+259,History although production enter allow market,WEB,Task,High,Done,13,2,4,2025-04-08 14:08:17.509835,12,2025-04-09 14:08:17.509835,14.4,14.1
+260,Course never church give,DEV,Story,Critical,To Do,11,8,5,2025-04-08 14:10:23.602461,13,,36.6,0.0
+261,Physical garden difference bring medical forward,DEV,Bug,Low,Done,9,2,2,2025-04-08 14:09:30.797267,5,2025-04-14 14:09:30.797267,7.0,2.2
+262,Cultural front property fear security least,WEB,Bug,Low,Done,12,1,5,2025-04-08 14:06:09.628786,7,2025-04-14 14:06:09.628786,3.2,1.6
+263,Economy he true animal,DATA,Bug,Low,In Progress,13,2,2,2025-04-08 14:07:40.823287,1,,19.8,0.6
+264,Article she approach respond catch surface,DEV,Bug,Low,In Progress,3,3,4,2025-04-08 14:05:30.796942,3,,8.4,1.4
+265,Article blood create,MOBILE,Story,Medium,In Progress,14,3,10,2025-04-08 14:07:26.636891,11,,37.6,14.9
+266,President TV finish our,DEV,Story,Medium,In Progress,8,1,5,2025-04-08 14:05:25.898883,13,,1.4,0.1
+267,Certain sometimes fish arm,DEV,Task,High,In Review,6,3,6,2025-04-08 14:08:44.486163,6,,17.1,15.5
+268,Today author discover,OPS,Story,High,Done,3,3,6,2025-04-08 14:07:07.503409,7,2025-04-18 14:07:07.503409,37.1,55.5
+269,Respond assume discover message positive,MOBILE,Bug,Medium,To Do,9,1,9,2025-04-08 14:07:20.204940,10,,16.0,0.0
+270,Source idea general kid various meeting,DEV,Epic,Low,In Progress,8,1,4,2025-04-08 14:09:00.594169,3,,4.6,0.7
+271,White seven for,WEB,Epic,Medium,In Progress,3,2,5,2025-04-08 14:05:16.079959,4,,12.8,15.8
+272,Couple significant month boy,DEV,Task,Low,In Progress,7,3,6,2025-04-08 14:09:39.579799,6,,20.4,3.6
+273,Factor author must,MOBILE,Bug,High,To Do,5,13,4,2025-04-08 14:08:21.281783,5,,8.2,0.0
+274,Performance six always open cold impact,DEV,Story,Medium,In Progress,2,2,6,2025-04-08 14:06:46.614073,11,,19.2,19.3
+275,Recently offer particular must method,MOBILE,Task,Medium,To Do,14,5,2,2025-04-08 14:08:57.278291,9,,33.6,0.0
+276,Father manage stuff now wait,WEB,Story,Low,Done,8,1,7,2025-04-08 14:09:31.792718,13,2025-04-20 14:09:31.792718,35.0,33.8
+277,Check safe cause,DEV,Bug,Low,In Progress,1,5,3,2025-04-08 14:08:44.145184,12,,2.9,3.9
+278,Study general avoid animal marriage,OPS,Task,Medium,Done,4,3,10,2025-04-08 14:09:04.840346,1,2025-04-27 14:09:04.840346,7.3,1.2
+279,Race onto move people happy begin,DATA,Task,High,Done,11,3,4,2025-04-08 14:08:34.442026,15,2025-04-14 14:08:34.442026,11.7,5.5
+280,No thing girl world option season,DEV,Bug,High,In Progress,13,1,9,2025-04-08 14:07:58.330750,13,,24.2,3.3
+281,Expect south number,OPS,Task,Medium,In Progress,11,1,5,2025-04-08 14:07:57.623012,5,,15.1,9.2
+282,While to imagine,MOBILE,Bug,Low,Done,12,3,9,2025-04-08 14:08:08.124815,11,2025-04-22 14:08:08.124815,33.9,46.4
+283,Along set tend,MOBILE,Task,High,Done,13,1,10,2025-04-08 14:08:38.319716,1,2025-04-11 14:08:38.319716,29.0,34.0
+284,Inside particular ten than civil ability,DATA,Story,High,In Progress,4,1,10,2025-04-08 14:07:21.382716,8,,4.9,5.3
+285,Foot region down serve,WEB,Bug,Medium,In Progress,13,1,10,2025-04-08 14:10:06.533503,7,,25.4,20.3
+286,Single term theory beat tell agency,MOBILE,Story,Low,Done,10,1,10,2025-04-08 14:09:45.085533,5,2025-04-18 14:09:45.085533,5.4,7.2
+287,Among common figure whom,OPS,Bug,Medium,Done,14,3,6,2025-04-08 14:04:51.720632,6,2025-04-17 14:04:51.720632,10.9,7.3
+288,Conference though such about gas drop,WEB,Task,Medium,To Do,5,2,8,2025-04-08 14:05:17.749460,4,,7.9,0.0
+289,Your suffer black wind film kind,WEB,Epic,Medium,To Do,4,1,5,2025-04-08 14:09:34.712907,9,,7.7,0.0
+290,Away free listen style choose party course,DEV,Task,High,Done,1,2,5,2025-04-08 14:05:03.029201,14,2025-04-28 14:05:03.029201,25.0,5.6
+291,Give up institution dinner,MOBILE,Epic,High,Done,14,5,3,2025-04-08 14:09:37.943809,3,2025-04-27 14:09:37.943809,23.0,28.9
+292,Art capital red black piece light,MOBILE,Task,Low,Done,7,8,7,2025-04-08 14:07:03.066045,2,2025-04-23 14:07:03.066045,7.9,3.3
+293,History somebody tell another different,WEB,Task,Low,To Do,10,2,2,2025-04-08 14:09:37.045839,7,,39.6,0.0
+294,Glass debate herself think understand,WEB,Story,Medium,To Do,11,3,3,2025-04-08 14:09:35.355795,13,,17.5,0.0
+295,Tv ever way both attorney,DEV,Bug,Medium,Done,2,1,2,2025-04-08 14:09:20.482039,2,2025-04-17 14:09:20.482039,4.8,0.4
+296,Might tough environment environmental,DEV,Bug,Low,To Do,10,2,8,2025-04-08 14:09:11.877666,13,,5.7,0.0
+297,Talk kind movement foot eight true,WEB,Task,Medium,Done,3,3,4,2025-04-08 14:07:36.592359,6,2025-04-27 14:07:36.592359,23.8,4.5
+298,Tonight water skill describe base discover,WEB,Story,Critical,Done,5,2,10,2025-04-08 14:07:53.286720,11,2025-04-16 14:07:53.286720,39.2,35.8
+299,Rock explain sport agency,MOBILE,Story,Medium,In Review,8,2,8,2025-04-08 14:05:37.577794,8,,23.3,21.2
+300,Wrong green theory contain while,WEB,Bug,Medium,To Do,10,3,8,2025-04-08 14:09:48.667804,3,,38.0,0.0
+301,Such expect method,DATA,Epic,Medium,To Do,8,8,8,2025-04-08 14:06:02.890436,3,,18.3,0.0
+302,Force phone blood professor discover save,DEV,Story,Low,In Progress,14,5,8,2025-04-08 14:05:59.595028,3,,18.0,7.0
+303,Support let decade child than,DATA,Epic,Low,Done,2,5,8,2025-04-08 14:05:16.512976,1,2025-04-12 14:05:16.512976,20.5,22.4
+304,Agency send size include,DEV,Task,Critical,To Do,9,1,9,2025-04-08 14:09:58.617410,9,,28.2,0.0
+305,Guess bed choose law agent,MOBILE,Task,Medium,In Progress,6,1,2,2025-04-08 14:05:01.989363,5,,15.3,17.8
+306,Market hear every thousand coach college,WEB,Story,Medium,Done,9,5,9,2025-04-08 14:08:54.608382,9,2025-04-13 14:08:54.608382,34.7,47.9
+307,Thing wonder network finish,DEV,Task,Medium,In Progress,14,1,8,2025-04-08 14:09:21.806342,5,,2.1,1.8
+308,Three front race,DEV,Epic,Medium,To Do,4,3,10,2025-04-08 14:05:18.190613,7,,18.2,0.0
+309,Pretty network inside word,DEV,Bug,Medium,In Review,3,2,1,2025-04-08 14:07:16.424356,1,,20.9,24.4
+310,Professional factor program choose,MOBILE,Task,Low,In Progress,14,2,5,2025-04-08 14:09:16.105863,9,,24.7,27.9
+311,Somebody involve drop author although,DEV,Epic,Medium,To Do,14,2,2,2025-04-08 14:09:24.887146,1,,11.8,0.0
+312,Alone new forward,DATA,Epic,Low,Done,5,5,10,2025-04-08 14:06:56.964357,15,2025-04-27 14:06:56.964357,17.7,6.8
+313,Continue point be interesting,DEV,Bug,High,In Progress,5,1,5,2025-04-08 14:09:14.096954,4,,19.9,9.3
+314,Add speech price concern there,DATA,Bug,Medium,In Progress,4,5,8,2025-04-08 14:04:36.195419,7,,27.8,20.0
+315,Significant contain song tonight,DEV,Story,Medium,Done,13,5,9,2025-04-08 14:06:20.286035,11,2025-04-22 14:06:20.286035,31.2,0.9
+316,Party his recent technology,DEV,Epic,Low,To Do,7,8,9,2025-04-08 14:09:29.788293,15,,29.8,0.0
+317,Cause store toward,DEV,Task,Medium,In Review,8,2,1,2025-04-08 14:05:03.239276,12,,14.3,6.4
+318,Believe service little well,OPS,Task,Critical,Done,15,2,7,2025-04-08 14:06:10.249575,9,2025-04-26 14:06:10.249575,40.0,28.4
+319,Tough region success,WEB,Story,Medium,To Do,5,13,8,2025-04-08 14:10:15.863037,1,,34.1,0.0
+320,Reason culture Mrs case,DEV,Bug,Medium,In Progress,15,2,10,2025-04-08 14:08:26.954996,12,,11.1,1.8
+321,Arrive financial kind instead man,DEV,Epic,Low,In Progress,9,2,3,2025-04-08 14:10:28.920686,14,,8.6,1.6
+322,Subject agreement his,DEV,Task,Medium,To Do,7,2,6,2025-04-08 14:06:27.665703,13,,13.2,0.0
+323,Alone think lead event improve rock,WEB,Task,Low,Done,13,1,3,2025-04-08 14:08:27.994471,11,2025-04-27 14:08:27.994471,18.6,12.9
+324,Choice toward discuss society common challenge,DEV,Task,Medium,To Do,13,2,9,2025-04-08 14:05:49.496616,15,,34.2,0.0
+325,See want window,MOBILE,Task,High,Done,7,3,3,2025-04-08 14:08:09.662736,13,2025-04-14 14:08:09.662736,31.4,34.4
+326,Popular open responsibility ground hear difference,MOBILE,Story,Medium,To Do,8,3,2,2025-04-08 14:08:28.941672,6,,34.2,0.0
+327,Notice realize put,OPS,Epic,Medium,In Progress,12,1,9,2025-04-08 14:10:05.994716,11,,11.6,14.5
+328,Thing so art magazine,WEB,Task,Low,Done,4,5,8,2025-04-08 14:05:44.718822,10,2025-04-13 14:05:44.718822,24.1,19.7
+329,Arm above cover cold former,DEV,Story,High,Done,10,2,8,2025-04-08 14:10:26.507225,11,2025-04-19 14:10:26.507225,12.0,8.5
+330,Effort student strategy customer,DATA,Bug,High,Done,13,2,2,2025-04-08 14:08:09.765833,15,2025-04-13 14:08:09.765833,5.3,3.1
+331,Hot street lay,DEV,Story,High,Done,13,13,6,2025-04-08 14:08:45.007350,5,2025-04-16 14:08:45.007350,27.7,8.0
+332,Value country say important space bill,WEB,Bug,Medium,Done,6,1,5,2025-04-08 14:08:59.055292,3,2025-04-13 14:08:59.055292,6.6,1.5
+333,Company spend provide very,OPS,Bug,High,To Do,5,5,2,2025-04-08 14:05:25.071864,10,,27.0,0.0
+334,This door can wish maybe,DEV,Bug,Medium,To Do,1,3,5,2025-04-08 14:10:20.499943,2,,26.3,0.0
+335,Window ahead sit machine wear forget,DEV,Task,Low,In Review,15,3,4,2025-04-08 14:07:44.960899,1,,32.6,38.7
+336,Could treat role music arm heavy,DEV,Epic,Medium,To Do,14,2,9,2025-04-08 14:08:36.271100,15,,6.4,0.0
+337,Sort firm hair commercial important,DEV,Task,Medium,To Do,13,1,1,2025-04-08 14:08:09.037773,2,,31.6,0.0
+338,Keep goal imagine,DEV,Bug,Low,Done,9,2,6,2025-04-08 14:08:20.474295,12,2025-04-19 14:08:20.474295,40.0,27.9
+339,Specific one behind worry something,DEV,Bug,Medium,To Do,2,2,7,2025-04-08 14:06:42.570853,13,,34.2,0.0
+340,Offer future land three again,DEV,Task,High,To Do,6,1,6,2025-04-08 14:08:13.494836,4,,30.3,0.0
+341,Ground act sing born,OPS,Bug,Medium,Done,15,5,5,2025-04-08 14:09:02.968299,6,2025-04-21 14:09:02.968299,26.8,31.8
+342,Child reveal rise more,WEB,Task,Medium,In Progress,15,2,4,2025-04-08 14:07:10.107074,12,,17.4,18.4
+343,View own responsibility nature at will,MOBILE,Task,High,In Progress,8,5,5,2025-04-08 14:09:25.456343,5,,29.5,8.6
+344,Food cost democratic,WEB,Epic,Medium,In Review,3,2,9,2025-04-08 14:10:21.569646,14,,29.2,22.4
+345,Cause who something avoid food above,OPS,Task,Low,In Progress,5,3,5,2025-04-08 14:08:08.083246,4,,25.6,17.1
+346,Land inside message rest read age,OPS,Bug,Medium,In Review,14,21,10,2025-04-08 14:07:20.805082,8,,32.1,20.4
+347,End wish young,OPS,Story,Medium,Done,7,13,8,2025-04-08 14:04:41.795850,12,2025-04-14 14:04:41.795850,18.5,15.1
+348,Chair consider meet return read act,OPS,Story,Medium,Done,4,1,7,2025-04-08 14:07:34.411052,7,2025-04-13 14:07:34.411052,5.7,8.4
+349,Congress mention television discuss,DEV,Story,Low,In Review,14,5,4,2025-04-08 14:09:21.587373,14,,22.8,27.8
+350,Need modern would,WEB,Bug,Low,Done,12,2,10,2025-04-08 14:05:54.957072,4,2025-04-26 14:05:54.957072,11.3,15.3
+351,Look get middle,WEB,Task,Medium,Done,5,1,5,2025-04-08 14:10:19.084231,10,2025-04-18 14:10:19.084231,16.0,0.7
+352,Purpose middle especially give similar,WEB,Epic,Medium,In Progress,1,3,7,2025-04-08 14:08:05.439242,13,,1.7,0.4
+353,Or example as either easy,WEB,Bug,Medium,To Do,4,13,6,2025-04-08 14:10:23.561829,13,,15.9,0.0
+354,Nothing section sing city difficult course,DEV,Task,Medium,Done,14,13,3,2025-04-08 14:08:48.538240,5,2025-04-24 14:08:48.538240,32.5,4.1
+355,Fact whether parent issue technology,DEV,Bug,High,Done,14,1,10,2025-04-08 14:05:26.058007,12,2025-04-22 14:05:26.058007,22.2,8.8
+356,Direction seem bit able other you,DATA,Task,Medium,In Progress,7,5,3,2025-04-08 14:05:19.363871,10,,1.4,0.9
+357,Head doctor also,MOBILE,Story,Medium,In Progress,12,5,2,2025-04-08 14:07:33.109142,5,,19.3,18.6
+358,Indeed well without him help,DEV,Task,High,Done,10,2,3,2025-04-08 14:07:06.379404,3,2025-04-23 14:07:06.379404,12.4,9.3
+359,Like by leader,DEV,Story,High,To Do,7,3,10,2025-04-08 14:06:41.985880,13,,19.6,0.0
+360,Summer start we,MOBILE,Task,Critical,To Do,10,2,1,2025-04-08 14:05:15.389543,9,,16.8,0.0
+361,Image notice month sea media enter,WEB,Epic,Medium,To Do,10,1,9,2025-04-08 14:06:26.472715,11,,37.3,0.0
+362,Impact lay raise power,WEB,Task,Medium,Done,4,5,2,2025-04-08 14:10:01.704167,5,2025-04-11 14:10:01.704167,2.6,3.5
+363,Spend onto heart issue main it,DEV,Bug,High,In Progress,12,1,3,2025-04-08 14:05:36.395962,12,,27.7,39.1
+364,Expect become full blue pretty ready,DEV,Task,Low,In Review,6,2,5,2025-04-08 14:06:29.439174,13,,34.2,8.4
+365,Much school public cup,DEV,Story,Medium,In Progress,13,1,10,2025-04-08 14:08:00.873099,10,,38.4,49.1
+366,Approach performance then join,MOBILE,Story,Critical,Done,5,3,4,2025-04-08 14:07:26.981412,2,2025-04-11 14:07:26.981412,7.9,5.7
+367,Another management wide already environmental true,DEV,Task,High,In Review,1,2,5,2025-04-08 14:06:03.553785,13,,21.7,14.8
+368,Officer need five act something,DEV,Task,Medium,In Progress,8,2,6,2025-04-08 14:05:36.014238,15,,2.7,3.2
+369,Per nature experience others white,MOBILE,Story,High,To Do,12,3,5,2025-04-08 14:04:39.909380,4,,20.5,0.0
+370,Charge face service,MOBILE,Story,Critical,Done,7,1,10,2025-04-08 14:05:02.285892,12,2025-04-20 14:05:02.285892,5.9,0.8
+371,And perhaps kind contain book manager,DEV,Task,Medium,In Progress,15,5,1,2025-04-08 14:09:36.159584,4,,33.7,44.6
+372,Easy call fund,MOBILE,Story,Medium,In Review,5,2,6,2025-04-08 14:05:52.791057,5,,5.4,5.4
+373,Training eye within wonder protect line,DATA,Task,Medium,In Progress,13,2,9,2025-04-08 14:05:31.146461,8,,21.0,27.6
+374,Stand Congress particularly join us,DATA,Bug,Medium,Done,10,1,3,2025-04-08 14:06:13.957223,5,2025-04-23 14:06:13.957223,21.3,31.8
+375,Land both admit,MOBILE,Bug,Low,Done,10,1,2,2025-04-08 14:05:33.492084,1,2025-04-19 14:05:33.492084,38.9,30.2
+376,Away difference true again win,MOBILE,Epic,Critical,Done,7,8,6,2025-04-08 14:05:29.691318,2,2025-04-18 14:05:29.691318,26.5,3.7
+377,Image art performance role,DEV,Bug,Critical,Done,15,2,3,2025-04-08 14:07:10.293405,15,2025-04-28 14:07:10.293405,12.2,3.0
+378,Stand quickly why no,MOBILE,Task,Low,To Do,10,3,4,2025-04-08 14:10:30.829628,3,,10.4,0.0
+379,Sing building recent much,MOBILE,Epic,Medium,Done,3,1,6,2025-04-08 14:09:49.358161,3,2025-04-23 14:09:49.358161,6.0,2.9
+380,Radio pattern although police,WEB,Bug,Medium,Done,8,3,6,2025-04-08 14:10:14.845758,10,2025-04-26 14:10:14.845758,30.5,4.7
+381,Technology board anyone,WEB,Story,Critical,Done,5,8,2,2025-04-08 14:08:26.451913,6,2025-04-22 14:08:26.451913,27.9,34.1
+382,Loss some your traditional,MOBILE,Story,Critical,In Progress,2,1,3,2025-04-08 14:05:48.898661,9,,24.8,11.0
+383,Recognize management mother,DATA,Epic,High,In Progress,2,3,9,2025-04-08 14:06:54.889584,10,,2.6,3.8
+384,Over according start newspaper,DEV,Bug,Medium,To Do,4,8,2,2025-04-08 14:05:17.172441,1,,30.8,0.0
+385,Democratic news my treat,DEV,Task,High,To Do,7,3,3,2025-04-08 14:05:29.843683,6,,26.0,0.0
+386,Reduce join decision,MOBILE,Epic,Medium,Done,14,1,9,2025-04-08 14:07:40.761436,9,2025-04-14 14:07:40.761436,38.6,40.7
+387,Bit good report evening market rate,DEV,Bug,Medium,In Progress,10,2,4,2025-04-08 14:09:54.861935,4,,23.9,6.2
+388,Human dark analysis talk,WEB,Task,Critical,Done,4,1,1,2025-04-08 14:08:03.872431,10,2025-04-22 14:08:03.872431,12.9,9.2
+389,Down scientist mean certain,DEV,Story,High,Done,9,5,2,2025-04-08 14:08:28.226111,3,2025-04-24 14:08:28.226111,15.9,11.1
+390,Unit show blue culture foot ok,WEB,Bug,Medium,In Progress,2,3,3,2025-04-08 14:06:42.768716,13,,7.9,5.8
+391,My lot whether wear,MOBILE,Epic,Critical,To Do,6,13,9,2025-04-08 14:07:28.988019,6,,29.2,0.0
+392,Read should analysis,DEV,Task,High,Done,4,1,9,2025-04-08 14:08:13.495494,6,2025-04-10 14:08:13.495494,28.6,23.0
+393,Bar machine hair might,DEV,Bug,High,Done,6,2,6,2025-04-08 14:06:05.428734,13,2025-04-27 14:06:05.428734,8.8,0.4
+394,Current wear language responsibility forget family,DEV,Bug,Medium,To Do,10,1,6,2025-04-08 14:07:10.257834,2,,7.2,0.0
+395,Letter time case great Republican,DEV,Bug,Medium,In Progress,9,2,3,2025-04-08 14:08:50.480559,15,,4.0,4.1
+396,Close most because,MOBILE,Bug,High,In Progress,10,1,5,2025-04-08 14:06:25.340802,5,,36.6,26.7
+397,Picture body too,WEB,Story,Medium,In Progress,12,2,4,2025-04-08 14:07:22.970396,1,,10.1,12.0
+398,Couple try fund contain,DEV,Bug,Low,In Review,9,5,10,2025-04-08 14:09:53.940862,13,,14.4,17.6
+399,Color thank number short guess Congress,WEB,Task,Medium,Done,9,1,10,2025-04-08 14:08:06.912723,9,2025-04-13 14:08:06.912723,11.9,4.1
+400,Plan ahead bed tell,DEV,Epic,Critical,Done,9,2,9,2025-04-08 14:09:16.259997,9,2025-04-19 14:09:16.259997,17.1,1.2
+401,Ahead cell traditional western expect game,MOBILE,Task,Medium,Done,3,8,9,2025-04-08 14:09:54.426103,3,2025-04-19 14:09:54.426103,28.8,30.4
+402,Various near under camera,DEV,Bug,Medium,To Do,12,21,1,2025-04-08 14:05:34.011336,5,,35.0,0.0
+403,Author help discover,OPS,Epic,Low,Done,11,1,8,2025-04-08 14:06:08.745128,15,2025-04-27 14:06:08.745128,8.1,11.9
+404,Door thus bring officer,WEB,Bug,Low,In Review,14,8,9,2025-04-08 14:06:42.436217,3,,27.8,18.6
+405,Oil source position,WEB,Epic,Medium,To Do,9,1,5,2025-04-08 14:05:06.183608,7,,14.7,0.0
+406,Though lead argue design entire several,MOBILE,Story,Medium,Done,3,2,4,2025-04-08 14:10:11.961837,13,2025-04-26 14:10:11.961837,39.2,15.3
+407,Hope those job painting positive,OPS,Story,Low,Done,10,5,10,2025-04-08 14:09:28.932906,15,2025-04-16 14:09:28.932906,12.7,3.0
+408,Leg film never short medical pay,DATA,Story,Low,In Progress,3,5,4,2025-04-08 14:07:08.580046,1,,1.3,0.6
+409,Born simple individual season great energy,WEB,Task,Medium,Done,5,5,2,2025-04-08 14:08:15.619727,15,2025-04-20 14:08:15.619727,21.1,10.4
+410,Cup value society claim,DEV,Story,High,In Review,6,5,9,2025-04-08 14:09:13.399601,5,,6.9,4.4
+411,Important cause identify,OPS,Story,High,In Progress,9,1,5,2025-04-08 14:07:24.552187,6,,2.7,2.7
+412,Finally similar building realize pull visit,DEV,Task,Medium,Done,1,3,3,2025-04-08 14:05:31.328277,14,2025-04-17 14:05:31.328277,28.2,11.6
+413,Since open Congress positive pressure factor,OPS,Task,Medium,In Progress,15,2,6,2025-04-08 14:07:08.449368,11,,29.6,2.3
+414,Main finally both movie fear book,MOBILE,Story,Low,Done,8,2,9,2025-04-08 14:08:02.487318,12,2025-04-11 14:08:02.487318,19.0,10.6
+415,Decide here size keep front,DATA,Task,Low,In Progress,14,1,9,2025-04-08 14:10:32.879092,14,,27.4,35.2
+416,Beat although ready environmental purpose guess,OPS,Story,High,Done,14,2,5,2025-04-08 14:06:59.383722,7,2025-04-14 14:06:59.383722,22.0,16.4
+417,Program action ago experience choose,DEV,Task,Medium,In Progress,4,5,8,2025-04-08 14:09:20.324702,3,,25.6,37.0
+418,Way color reflect,MOBILE,Task,High,In Progress,10,5,4,2025-04-08 14:06:55.917617,7,,24.3,18.4
+419,Next however sense star,DEV,Bug,Medium,In Progress,7,3,5,2025-04-08 14:08:07.551581,4,,27.0,11.2
+420,Challenge defense four arrive already,DEV,Bug,Medium,In Progress,6,2,7,2025-04-08 14:04:36.431167,10,,8.8,2.6
+421,Impact western gas,WEB,Task,High,Done,15,3,7,2025-04-08 14:06:07.780949,11,2025-04-09 14:06:07.780949,11.5,12.0
+422,Nearly environment project,DEV,Task,High,In Progress,6,3,7,2025-04-08 14:09:44.757970,14,,18.2,14.6
+423,Wait back cut sure,MOBILE,Task,High,In Progress,7,21,8,2025-04-08 14:07:20.054982,6,,18.4,16.7
+424,May top civil measure mean,DATA,Story,Critical,In Progress,4,1,5,2025-04-08 14:08:48.644034,5,,31.2,35.3
+425,Discuss happy part size,WEB,Task,Low,In Review,6,2,1,2025-04-08 14:10:12.851582,4,,15.3,16.7
+426,Court somebody follow game,DEV,Story,Critical,Done,3,8,9,2025-04-08 14:09:37.363597,6,2025-04-25 14:09:37.363597,7.3,0.5
+427,Truth change social help customer,OPS,Bug,Critical,In Progress,5,8,9,2025-04-08 14:08:36.958844,13,,10.8,13.0
+428,Road short clear,OPS,Task,High,In Progress,13,2,7,2025-04-08 14:05:36.152493,12,,9.4,7.5
+429,Man argue whether whatever inside,MOBILE,Bug,Low,In Progress,13,1,6,2025-04-08 14:07:05.594761,3,,29.5,17.3
+430,Single begin least,MOBILE,Task,Medium,To Do,14,5,5,2025-04-08 14:08:00.434133,3,,19.3,0.0
+431,Woman statement compare again,OPS,Bug,High,Done,15,3,5,2025-04-08 14:08:39.014541,5,2025-04-11 14:08:39.014541,28.6,23.1
+432,Eat gun attack however travel father,DEV,Task,Medium,To Do,13,5,3,2025-04-08 14:10:34.488146,11,,17.2,0.0
+433,Which maintain support you,DATA,Task,Medium,Done,2,2,10,2025-04-08 14:08:24.691325,5,2025-04-26 14:08:24.691325,35.7,32.8
+434,Different show authority program answer understand,DATA,Bug,Medium,In Progress,3,1,1,2025-04-08 14:06:51.459292,9,,39.4,8.8
+435,Same it police throw husband road,OPS,Task,Medium,To Do,13,1,6,2025-04-08 14:05:45.591697,15,,27.1,0.0
+436,Important recent like prevent,DEV,Epic,High,Done,9,3,8,2025-04-08 14:06:01.590053,4,2025-04-26 14:06:01.590053,34.7,21.7
+437,As respond from worry fly,OPS,Bug,Low,To Do,6,1,2,2025-04-08 14:04:45.691435,5,,20.8,0.0
+438,Training section east share feeling specific,WEB,Story,Medium,Done,3,1,8,2025-04-08 14:07:38.460291,12,2025-04-10 14:07:38.460291,37.5,18.9
+439,Start sport usually,WEB,Task,Medium,To Do,2,2,8,2025-04-08 14:05:05.621777,9,,33.4,0.0
+440,These in education,OPS,Task,High,In Progress,5,2,10,2025-04-08 14:05:58.245333,4,,39.7,20.9
+441,Personal talk significant interest,DEV,Bug,Low,In Progress,10,1,8,2025-04-08 14:09:54.014277,13,,25.3,3.5
+442,Relate radio voice care,DEV,Bug,Medium,In Review,14,1,10,2025-04-08 14:08:34.520244,15,,31.4,7.5
+443,Expert back enough find identify rest,OPS,Story,High,In Progress,5,8,3,2025-04-08 14:08:34.161394,15,,22.2,5.4
+444,Various simple child,OPS,Bug,High,Done,1,1,10,2025-04-08 14:10:11.265140,3,2025-04-12 14:10:11.265140,11.1,6.2
+445,Quickly watch individual defense wall,OPS,Bug,Medium,To Do,3,2,8,2025-04-08 14:04:40.546217,7,,14.8,0.0
+446,Control benefit commercial report choice performance,DEV,Task,Medium,Done,7,2,4,2025-04-08 14:05:49.629979,7,2025-04-09 14:05:49.629979,35.9,48.2
+447,Mission board go four including never,MOBILE,Task,Low,In Progress,9,5,3,2025-04-08 14:07:09.193512,8,,3.2,1.0
+448,Food hot seem,DEV,Story,Medium,In Review,5,2,9,2025-04-08 14:06:12.961816,4,,24.1,15.0
+449,Senior who example class,MOBILE,Task,Medium,In Progress,4,1,8,2025-04-08 14:05:55.427285,4,,15.5,7.2
+450,Pressure big positive imagine garden,DEV,Task,High,Done,3,1,10,2025-04-08 14:10:07.292513,14,2025-04-18 14:10:07.292513,16.1,19.0
+451,Space need future remember opportunity,MOBILE,Task,Medium,Done,10,3,2,2025-04-08 14:05:23.941961,14,2025-04-13 14:05:23.941961,35.5,2.7
+452,Around three manage voice,WEB,Bug,Low,Done,13,3,8,2025-04-08 14:05:13.453007,9,2025-04-13 14:05:13.453007,34.3,10.1
+453,Computer these high describe,DATA,Task,Medium,Done,9,2,3,2025-04-08 14:06:08.785306,10,2025-04-17 14:06:08.785306,24.4,7.7
+454,Word anything main scene remember security,WEB,Task,High,Done,14,1,10,2025-04-08 14:05:17.158684,7,2025-04-22 14:05:17.158684,11.6,17.3
+455,Bed somebody read letter,MOBILE,Task,High,To Do,7,2,6,2025-04-08 14:04:53.359481,3,,19.5,0.0
+456,Process the especially writer authority,DEV,Story,High,Done,12,3,5,2025-04-08 14:10:21.746258,15,2025-04-21 14:10:21.746258,16.9,14.5
+457,Drug hard organization hold,MOBILE,Task,Medium,In Review,7,3,8,2025-04-08 14:05:48.051404,13,,14.8,3.1
+458,South street among,WEB,Bug,Low,To Do,14,1,9,2025-04-08 14:09:43.472400,9,,5.0,0.0
+459,Concern talk quickly finish,DEV,Bug,High,In Review,13,3,7,2025-04-08 14:10:16.582434,13,,22.2,9.1
+460,National hospital do should student,MOBILE,Task,Medium,Done,8,1,6,2025-04-08 14:08:52.364579,5,2025-04-21 14:08:52.364579,12.8,3.2
+461,Lot employee standard table support,OPS,Story,Medium,In Progress,10,3,6,2025-04-08 14:04:52.251392,4,,26.8,5.0
+462,Executive so herself give,DEV,Bug,Low,Done,1,3,1,2025-04-08 14:08:39.888102,1,2025-04-09 14:08:39.888102,13.4,16.0
+463,Answer already wait guy,DEV,Epic,Medium,Done,11,8,5,2025-04-08 14:06:49.824605,9,2025-04-25 14:06:49.824605,17.8,13.2
+464,Congress audience evening main always,MOBILE,Task,High,In Progress,4,2,8,2025-04-08 14:10:12.470696,6,,3.0,2.8
+465,Why travel to protect to subject,OPS,Task,High,To Do,13,2,6,2025-04-08 14:10:33.329119,11,,39.7,0.0
+466,Police decade pick require,DEV,Task,Medium,Done,13,1,1,2025-04-08 14:07:56.763985,2,2025-04-28 14:07:56.763985,20.8,10.3
+467,Eye before foot management job,DATA,Bug,Low,Done,5,1,5,2025-04-08 14:05:33.307283,13,2025-04-16 14:05:33.307283,1.9,1.6
+468,Court remain while avoid cup,DATA,Task,High,Done,5,1,5,2025-04-08 14:09:30.144101,7,2025-04-11 14:09:30.144101,22.1,8.5
+469,Down really wife fight,DEV,Task,Medium,To Do,1,1,3,2025-04-08 14:10:32.231652,3,,34.9,0.0
+470,Develop probably soldier road debate article,DEV,Bug,Medium,In Review,3,1,8,2025-04-08 14:07:17.476919,15,,31.1,14.4
+471,Will become event director,MOBILE,Story,Medium,Done,2,13,9,2025-04-08 14:09:50.366388,6,2025-04-25 14:09:50.366388,28.3,27.7
+472,Thousand it red for,DATA,Story,High,Done,12,3,6,2025-04-08 14:07:19.960969,8,2025-04-20 14:07:19.960969,6.4,1.4
+473,Over door answer add,MOBILE,Bug,Low,In Review,7,1,6,2025-04-08 14:09:15.841225,3,,26.7,24.7
+474,Few continue former similar because everybody,WEB,Task,Medium,Done,13,1,2,2025-04-08 14:10:25.878464,13,2025-04-26 14:10:25.878464,30.9,39.5
+475,Majority large person his focus,DEV,Bug,Medium,To Do,14,2,10,2025-04-08 14:07:19.778185,12,,23.3,0.0
+476,Crime clear current tree,WEB,Story,Medium,Done,5,2,2,2025-04-08 14:06:36.759502,12,2025-04-22 14:06:36.759502,35.8,6.5
+477,That better thought information especially,MOBILE,Task,Low,In Progress,3,1,6,2025-04-08 14:05:33.629900,5,,11.8,15.9
+478,Travel question mother expert,DEV,Task,Medium,In Progress,11,2,8,2025-04-08 14:06:58.963210,14,,10.4,1.2
+479,Probably win individual suddenly glass choice,WEB,Task,Medium,To Do,8,8,2,2025-04-08 14:06:15.086408,6,,34.9,0.0
+480,Information whose wall soldier trade,DEV,Task,Medium,Done,1,3,9,2025-04-08 14:05:40.753103,1,2025-04-19 14:05:40.753103,25.4,13.3
+481,Very debate chair,WEB,Story,Medium,Done,1,2,9,2025-04-08 14:07:00.267969,10,2025-04-24 14:07:00.267969,1.1,1.0
+482,Enjoy wall outside group spend,DEV,Story,High,Done,14,5,4,2025-04-08 14:07:16.173423,7,2025-04-12 14:07:16.173423,14.8,12.4
+483,Plant market activity child maintain road,DEV,Task,Low,In Progress,6,1,4,2025-04-08 14:09:38.091447,4,,34.5,5.0
+484,Body wife second audience,OPS,Task,Low,To Do,1,1,4,2025-04-08 14:08:28.363014,10,,2.1,0.0
+485,Crime perhaps box,DEV,Task,Medium,To Do,4,2,5,2025-04-08 14:07:41.898481,11,,1.1,0.0
+486,Energy help realize family,WEB,Bug,Medium,Done,6,3,8,2025-04-08 14:08:08.282217,15,2025-04-26 14:08:08.282217,12.0,14.4
+487,Just opportunity present,DEV,Bug,High,To Do,1,2,2,2025-04-08 14:07:10.584397,7,,36.6,0.0
+488,How people bag goal very but,DEV,Task,Low,Done,13,1,5,2025-04-08 14:09:40.002025,7,2025-04-15 14:09:40.002025,36.2,52.8
+489,General student process impact loss,DEV,Story,Medium,In Progress,9,8,2,2025-04-08 14:08:31.862902,11,,21.2,5.8
+490,Speech world the,DEV,Epic,Medium,To Do,15,2,8,2025-04-08 14:07:49.295959,5,,22.6,0.0
+491,Or yes our none,DEV,Bug,Low,Done,4,5,1,2025-04-08 14:04:50.428027,8,2025-04-19 14:04:50.428027,13.9,18.7
+492,Help mission environment probably,OPS,Task,Medium,Done,9,5,7,2025-04-08 14:08:57.651479,8,2025-04-24 14:08:57.651479,10.5,8.8
+493,Body more population wife situation become,DEV,Bug,Low,Done,9,2,3,2025-04-08 14:10:29.745931,5,2025-04-24 14:10:29.745931,32.8,46.0
+494,Perform base teacher order,DEV,Story,Medium,To Do,13,5,4,2025-04-08 14:08:33.724478,5,,5.1,0.0
+495,Best something never again and,OPS,Story,Medium,In Progress,6,3,8,2025-04-08 14:05:04.607890,7,,20.0,5.3
+496,Accept mission girl how church source,DEV,Bug,Medium,In Progress,13,8,3,2025-04-08 14:04:53.007565,6,,25.7,30.5
+497,Represent accept citizen,MOBILE,Story,Medium,To Do,7,1,7,2025-04-08 14:09:14.175907,4,,5.0,0.0
+498,Open science mind green,DEV,Story,Low,To Do,15,8,1,2025-04-08 14:07:06.891987,2,,21.3,0.0
+499,Beautiful politics increase they,DEV,Bug,Medium,To Do,13,1,9,2025-04-08 14:06:49.957703,8,,23.5,0.0
+500,Hundred book carry,WEB,Task,Medium,In Progress,1,5,6,2025-04-08 14:09:13.809265,3,,30.0,2.7
+501,Decision my role owner baby sea,DATA,Task,High,Done,5,2,3,2025-04-08 14:10:08.434346,2,2025-04-11 14:10:08.434346,10.2,13.5
+502,Since also society central successful affect,DEV,Bug,Critical,Done,3,1,7,2025-04-08 14:09:43.146290,12,2025-04-17 14:09:43.146290,12.4,12.5
+503,Determine compare firm catch heavy value west,WEB,Task,Medium,To Do,10,1,5,2025-04-08 14:05:18.588537,15,,23.2,0.0
+504,Learn sit local determine,DEV,Bug,Medium,To Do,10,2,8,2025-04-08 14:08:07.781340,10,,39.3,0.0
+505,Piece low use nor letter dark,DEV,Task,Low,In Review,13,2,8,2025-04-08 14:07:44.712558,7,,9.5,5.3
+506,Say under begin,DATA,Story,Medium,Done,6,1,9,2025-04-08 14:06:58.134385,10,2025-04-16 14:06:58.134385,39.5,11.3
+507,Although hotel right soldier,DEV,Task,Medium,Done,4,1,6,2025-04-08 14:06:24.790810,6,2025-04-15 14:06:24.790810,28.9,35.4
+508,Table kind such either sense,OPS,Bug,Medium,Done,15,2,4,2025-04-08 14:10:31.179286,8,2025-04-25 14:10:31.179286,33.2,30.0
+509,Life pull add,DEV,Bug,Medium,Done,13,2,2,2025-04-08 14:10:34.728453,13,2025-04-19 14:10:34.728453,4.5,2.4
+510,Box indeed service realize without,OPS,Task,Low,In Progress,14,2,3,2025-04-08 14:08:52.179589,14,,12.7,8.5
+511,However military everybody billion affect trip,WEB,Task,Medium,In Review,13,5,5,2025-04-08 14:09:31.464557,6,,3.3,4.1
+512,After wall town remain strategy,OPS,Task,High,In Progress,9,3,8,2025-04-08 14:07:34.635807,7,,15.5,7.9
+513,Affect coach simply,DEV,Bug,Medium,In Progress,7,1,10,2025-04-08 14:05:46.161458,2,,39.3,5.3
+514,Work million seek carry,MOBILE,Story,Critical,In Progress,15,2,2,2025-04-08 14:09:45.621051,10,,5.1,7.0
+515,Mrs environmental because truth machine,MOBILE,Story,Medium,Done,14,5,5,2025-04-08 14:10:34.573195,14,2025-04-12 14:10:34.573195,22.9,13.3
+516,Wonder fund window artist cultural,WEB,Story,High,To Do,15,1,9,2025-04-08 14:08:58.036963,2,,1.2,0.0
+517,Car place chair individual perform price,OPS,Task,Medium,In Progress,4,2,2,2025-04-08 14:09:24.362410,6,,28.8,15.1
+518,Skill table hundred Mrs exactly range,MOBILE,Task,High,Done,13,2,8,2025-04-08 14:05:53.374118,9,2025-04-12 14:05:53.374118,8.7,2.7
+519,Trouble Mrs run rather audience,OPS,Bug,High,In Progress,11,13,3,2025-04-08 14:09:18.682819,14,,6.1,8.2
+520,Enter turn from,DEV,Story,Medium,In Progress,6,2,8,2025-04-08 14:05:49.833131,3,,14.1,4.6
+521,Training statement industry,WEB,Bug,Critical,Done,2,3,4,2025-04-08 14:10:20.024144,11,2025-04-13 14:10:20.024144,31.1,29.7
+522,Study night us,OPS,Story,Critical,Done,14,2,4,2025-04-08 14:07:33.584403,10,2025-04-16 14:07:33.584403,5.2,6.9
+523,Them admit hard,DEV,Task,Medium,Done,3,5,7,2025-04-08 14:07:27.224651,14,2025-04-18 14:07:27.224651,10.0,0.5
+524,Describe clear voice case,WEB,Story,High,Done,15,2,5,2025-04-08 14:06:04.341769,14,2025-04-25 14:06:04.341769,1.3,1.6
+525,Risk produce response move,DATA,Story,High,Done,11,2,4,2025-04-08 14:06:44.067283,13,2025-04-14 14:06:44.067283,38.8,23.9
+526,Time decide tell study think recognize,WEB,Task,High,In Progress,7,2,7,2025-04-08 14:07:27.963310,8,,24.1,23.8
+527,Standard child husband morning best,DEV,Epic,Low,In Progress,11,8,3,2025-04-08 14:07:28.993779,15,,29.1,16.3
+528,Ten industry public expert cover gun,DEV,Bug,Medium,In Progress,12,1,9,2025-04-08 14:07:15.363980,5,,26.4,27.5
+529,Vote audience affect dinner collection,OPS,Epic,Medium,In Review,4,1,5,2025-04-08 14:06:43.687291,13,,6.6,2.5
+530,Check whose beautiful there,DATA,Story,Low,In Progress,14,3,3,2025-04-08 14:08:36.037686,6,,24.2,0.8
+531,Throw design over husband employee,DATA,Epic,Critical,In Progress,12,3,2,2025-04-08 14:06:53.646315,6,,6.1,8.7
+532,List argue last try sound upon,MOBILE,Bug,Medium,To Do,10,1,7,2025-04-08 14:08:28.417981,11,,16.6,0.0
+533,Boy Mrs support,WEB,Bug,Low,In Progress,7,1,7,2025-04-08 14:07:59.792507,12,,23.2,0.6
+534,Agent beat decision mission already late,DEV,Story,Medium,Done,9,2,5,2025-04-08 14:08:50.695226,10,2025-04-17 14:08:50.695226,22.8,28.2
+535,Big team example usually,DEV,Epic,Low,Done,14,2,4,2025-04-08 14:08:09.342906,11,2025-04-18 14:08:09.342906,5.6,1.4
+536,Window scene whose plan care,DEV,Bug,Low,To Do,13,5,2,2025-04-08 14:09:23.347435,13,,2.3,0.0
+537,Window food star,DEV,Bug,High,To Do,5,1,2,2025-04-08 14:07:37.736255,3,,32.1,0.0
+538,Speech star field security,OPS,Bug,Low,In Review,14,5,7,2025-04-08 14:08:25.435967,11,,29.3,17.2
+539,Local trial teach particularly form purpose,OPS,Story,Low,In Progress,1,2,10,2025-04-08 14:05:20.645643,11,,4.2,5.2
+540,Experience turn security particularly,WEB,Story,Medium,To Do,5,1,7,2025-04-08 14:10:16.078104,5,,6.0,0.0
+541,Trouble total provide end,DATA,Task,Low,Done,6,2,4,2025-04-08 14:07:12.138380,12,2025-04-16 14:07:12.138380,35.8,11.1
+542,Building source establish Mrs tonight tell,DATA,Bug,Critical,In Progress,14,3,4,2025-04-08 14:09:45.553024,1,,31.0,40.3
+543,Article that relate,MOBILE,Task,Medium,In Review,11,1,4,2025-04-08 14:10:11.980914,2,,39.9,29.8
+544,Yourself young forget,WEB,Bug,High,Done,2,3,2,2025-04-08 14:08:18.795922,10,2025-04-23 14:08:18.795922,10.9,6.0
+545,Friend organization budget,DEV,Story,High,Done,8,5,9,2025-04-08 14:07:49.338523,15,2025-04-26 14:07:49.338523,20.0,19.9
+546,Window professional event reduce own,WEB,Task,Medium,Done,13,1,1,2025-04-08 14:07:37.067969,3,2025-04-13 14:07:37.067969,10.2,5.2
+547,Local ground course ask,DEV,Task,Medium,To Do,2,1,8,2025-04-08 14:06:26.475268,4,,25.3,0.0
+548,Early south mind catch him,DEV,Story,Medium,Done,15,1,6,2025-04-08 14:08:39.118704,13,2025-04-26 14:08:39.118704,5.5,2.9
+549,Significant front child data,DATA,Task,Medium,In Progress,14,5,10,2025-04-08 14:08:42.244331,9,,6.0,6.6
+550,Produce catch want see nature land,DEV,Task,Medium,Done,9,1,7,2025-04-08 14:10:06.267698,1,2025-04-09 14:10:06.267698,3.8,1.8
+551,Allow budget than,DEV,Story,High,In Progress,14,5,5,2025-04-08 14:05:27.153817,3,,28.0,8.4
+552,Above return allow,WEB,Bug,Medium,In Review,13,2,6,2025-04-08 14:07:00.772713,3,,20.3,24.6
+553,Yet black of hope reality over,MOBILE,Story,Low,Done,2,5,6,2025-04-08 14:06:17.608694,13,2025-04-10 14:06:17.608694,25.1,30.3
+554,Practice station Mr hundred force hope any,DEV,Bug,Medium,Done,3,3,9,2025-04-08 14:05:05.993005,15,2025-04-18 14:05:05.993005,35.3,26.3
+555,Purpose method voice,DEV,Story,Medium,In Progress,8,2,10,2025-04-08 14:10:28.129591,13,,29.9,23.6
+556,Allow production art catch home,DATA,Bug,Medium,In Progress,11,8,4,2025-04-08 14:10:04.348332,6,,19.0,19.8
+557,Wait how attention rate,DEV,Bug,Medium,Done,6,3,5,2025-04-08 14:08:35.577460,5,2025-04-14 14:08:35.577460,39.4,30.1
+558,Foreign father wait,OPS,Task,Medium,In Progress,1,2,4,2025-04-08 14:07:37.412307,3,,18.8,11.8
+559,Church approach now message wife,WEB,Epic,Low,In Review,15,3,1,2025-04-08 14:09:53.242904,4,,5.4,8.1
+560,Company just positive mind,WEB,Epic,Medium,Done,4,3,10,2025-04-08 14:08:35.113924,11,2025-04-27 14:08:35.113924,39.7,8.8
+561,Lot similar yourself report fear,DEV,Bug,Medium,Done,5,2,6,2025-04-08 14:05:05.811764,7,2025-04-19 14:05:05.811764,1.9,1.7
+562,Class investment whether order art,MOBILE,Bug,Medium,In Progress,14,2,5,2025-04-08 14:10:31.192615,3,,22.4,29.8
+563,Either live fire safe,OPS,Task,Medium,In Progress,11,2,4,2025-04-08 14:09:03.961760,9,,13.1,13.5
+564,Debate business couple indeed,DEV,Task,Medium,Done,3,21,6,2025-04-08 14:08:32.966307,8,2025-04-26 14:08:32.966307,20.6,27.2
+565,Boy oil near center,DEV,Story,Medium,In Progress,1,3,5,2025-04-08 14:07:45.950336,13,,22.8,11.5
+566,Check discussion street,DEV,Task,Medium,In Review,3,1,3,2025-04-08 14:09:49.952832,2,,10.4,4.2
+567,Candidate rise bar,MOBILE,Story,Medium,Done,13,2,2,2025-04-08 14:05:18.850709,5,2025-04-24 14:05:18.850709,22.7,29.0
+568,Environmental so not vote,WEB,Story,Medium,In Progress,9,1,6,2025-04-08 14:08:02.338717,14,,30.5,18.0
+569,Avoid Republican determine choice,DEV,Task,Low,Done,2,1,4,2025-04-08 14:08:37.537947,4,2025-04-16 14:08:37.537947,11.4,12.1
+570,Discuss seven set movement,DEV,Story,Medium,In Progress,1,2,10,2025-04-08 14:09:31.097004,12,,16.0,3.5
+571,Institution his himself,WEB,Bug,Low,In Progress,7,2,3,2025-04-08 14:10:08.491237,13,,11.5,13.0
+572,Leader affect radio,OPS,Bug,High,In Progress,13,13,8,2025-04-08 14:06:12.811166,5,,33.0,27.2
+573,Matter series half,MOBILE,Story,High,In Progress,7,21,9,2025-04-08 14:07:33.169602,3,,29.3,11.8
+574,Possible leg through without sure,DEV,Bug,Medium,Done,5,1,7,2025-04-08 14:05:24.086748,10,2025-04-12 14:05:24.086748,35.0,26.0
+575,Fact it finish stand front night,DEV,Bug,Medium,To Do,2,2,2,2025-04-08 14:08:05.457566,15,,7.6,0.0
+576,Hospital stock best,WEB,Epic,Medium,In Progress,14,5,8,2025-04-08 14:08:37.282314,11,,3.9,4.1
+577,Economic official create phone house role,DEV,Task,High,Done,1,1,5,2025-04-08 14:07:58.565239,1,2025-04-19 14:07:58.565239,5.7,0.1
+578,Contain education apply season,MOBILE,Task,High,In Review,13,5,10,2025-04-08 14:08:33.513145,8,,7.3,7.0
+579,Myself actually really interview blue another,WEB,Story,Medium,Done,5,5,7,2025-04-08 14:06:13.204148,9,2025-04-18 14:06:13.204148,21.8,17.7
+580,Industry develop time,DEV,Task,High,To Do,10,3,5,2025-04-08 14:07:02.898655,8,,38.9,0.0
+581,Team road live chance both,WEB,Epic,Medium,Done,4,2,2,2025-04-08 14:06:09.442299,4,2025-04-24 14:06:09.442299,14.9,4.9
+582,Sit able join great,MOBILE,Bug,Medium,In Progress,9,8,4,2025-04-08 14:07:52.316634,12,,38.4,43.4
+583,Walk field notice site plant decision,WEB,Task,Medium,Done,5,5,5,2025-04-08 14:06:49.539698,2,2025-04-20 14:06:49.539698,2.5,1.1
+584,Natural today matter laugh realize,OPS,Story,High,Done,11,3,6,2025-04-08 14:09:07.017421,4,2025-04-11 14:09:07.017421,37.1,15.4
+585,Analysis remember personal challenge,MOBILE,Task,High,Done,10,2,5,2025-04-08 14:08:02.926335,14,2025-04-19 14:08:02.926335,8.1,5.7
+586,Serve almost finally better billion early,MOBILE,Story,Medium,To Do,12,5,10,2025-04-08 14:08:09.457062,9,,36.6,0.0
+587,Fill admit possible either real reduce,MOBILE,Epic,Critical,To Do,12,2,1,2025-04-08 14:06:57.809413,10,,3.2,0.0
+588,Public realize drive,DEV,Story,Medium,In Progress,2,1,1,2025-04-08 14:07:22.109299,9,,38.0,38.5
+589,Approach measure style those cover,DEV,Task,Low,To Do,4,2,3,2025-04-08 14:10:03.662019,5,,8.8,0.0
+590,Theory all according glass,DATA,Task,High,In Review,13,21,9,2025-04-08 14:07:36.636366,5,,12.8,17.8
+591,Camera scene step recently,DATA,Epic,High,In Progress,12,5,2,2025-04-08 14:06:17.632199,10,,20.1,4.3
+592,West cover build system,MOBILE,Task,Critical,In Progress,9,3,10,2025-04-08 14:05:28.904519,3,,15.8,9.4
+593,Recognize parent close,MOBILE,Task,Low,Done,8,2,5,2025-04-08 14:10:04.414406,14,2025-04-24 14:10:04.414406,27.0,2.7
+594,Reason simple language concern up service,DEV,Task,Critical,To Do,3,2,9,2025-04-08 14:07:11.091738,15,,39.0,0.0
+595,Any study democratic finish defense,WEB,Bug,Low,To Do,8,5,7,2025-04-08 14:08:08.185663,6,,24.7,0.0
+596,Race two work most huge,DATA,Bug,Medium,Done,13,3,8,2025-04-08 14:08:11.689965,7,2025-04-11 14:08:11.689965,29.1,33.1
+597,Force new your teacher however side,OPS,Epic,Medium,In Progress,2,5,2,2025-04-08 14:05:27.622154,12,,4.4,3.0
+598,Management allow tax method easy,DEV,Task,Critical,In Review,3,2,5,2025-04-08 14:08:25.861523,15,,25.5,27.0
+599,Decade move hair soon almost structure,DEV,Bug,Medium,Done,14,5,9,2025-04-08 14:07:40.577761,10,2025-04-18 14:07:40.577761,18.7,9.0
+600,Form case offer,WEB,Story,Medium,Done,5,5,1,2025-04-08 14:04:51.362507,14,2025-04-24 14:04:51.362507,35.5,45.0
+601,Us marriage expert,WEB,Task,Medium,Done,11,2,1,2025-04-08 14:08:13.248281,15,2025-04-15 14:08:13.248281,16.1,12.9
+602,Ready car common person,DEV,Story,Medium,Done,12,1,10,2025-04-08 14:05:31.541685,12,2025-04-23 14:05:31.541685,27.5,38.9
+603,Religious everything theory whole decision,MOBILE,Bug,Medium,Done,14,1,8,2025-04-08 14:09:54.228816,9,2025-04-23 14:09:54.228816,9.9,1.2
+604,Responsibility professor television office,DEV,Epic,Medium,Done,10,8,2,2025-04-08 14:08:20.416816,7,2025-04-18 14:08:20.416816,11.1,8.6
+605,Even side full,MOBILE,Task,Medium,Done,10,3,9,2025-04-08 14:10:07.422880,3,2025-04-11 14:10:07.422880,15.7,18.1
+606,Congress church push,MOBILE,Story,Medium,To Do,8,3,10,2025-04-08 14:06:34.612549,12,,12.9,0.0
+607,Together should person along actually many our,OPS,Bug,Medium,Done,1,2,9,2025-04-08 14:08:28.560825,13,2025-04-14 14:08:28.560825,10.9,9.8
+608,Back stage tough back environment,OPS,Task,High,In Progress,4,3,4,2025-04-08 14:05:44.923974,7,,2.9,0.1
+609,Member none indeed should,WEB,Bug,Medium,Done,1,3,2,2025-04-08 14:05:16.238534,13,2025-04-26 14:05:16.238534,33.6,49.0
+610,Organization into support pressure,MOBILE,Epic,Medium,Done,1,1,3,2025-04-08 14:04:41.426156,1,2025-04-13 14:04:41.426156,3.5,1.6
+611,Front she throw worry order word,WEB,Bug,Critical,In Review,12,13,10,2025-04-08 14:07:07.710586,2,,35.6,13.3
+612,Long dream itself,DATA,Story,Medium,To Do,5,2,1,2025-04-08 14:05:57.862161,4,,5.9,0.0
+613,Deep meeting be,DEV,Bug,High,In Progress,6,2,3,2025-04-08 14:07:57.084214,7,,3.5,2.5
+614,Candidate not beautiful federal game section,DATA,Bug,Critical,In Progress,15,2,5,2025-04-08 14:05:05.619166,15,,23.0,18.7
+615,Article cultural industry,DEV,Task,Low,In Progress,1,1,3,2025-04-08 14:07:41.066384,9,,20.6,23.7
+616,Hear per letter game stock ok,DEV,Story,Medium,Done,11,3,3,2025-04-08 14:08:15.439538,15,2025-04-24 14:08:15.439538,20.2,11.9
+617,Position total social building to while,WEB,Story,Medium,Done,6,1,10,2025-04-08 14:06:18.530605,5,2025-04-21 14:06:18.530605,23.4,15.4
+618,Life mouth magazine second station,MOBILE,Epic,Low,In Progress,5,5,6,2025-04-08 14:04:47.596444,15,,12.2,9.8
+619,Space college really,DEV,Epic,High,In Review,4,2,3,2025-04-08 14:07:57.178598,8,,26.9,15.9
+620,Include public issue number analysis,WEB,Bug,Low,Done,10,2,3,2025-04-08 14:04:59.770170,7,2025-04-11 14:04:59.770170,20.6,28.3
+621,Film recently star scene,OPS,Story,High,In Progress,5,3,9,2025-04-08 14:05:58.457044,5,,14.1,18.0
+622,Left difference between treat huge,DEV,Task,Medium,Done,8,5,2,2025-04-08 14:08:36.046266,13,2025-04-23 14:08:36.046266,33.2,22.7
+623,President upon especially have seven chair,WEB,Story,Medium,Done,9,1,1,2025-04-08 14:06:43.123574,3,2025-04-28 14:06:43.123574,29.4,0.0
+624,Point wall into,DEV,Bug,Low,In Progress,11,13,10,2025-04-08 14:06:35.799468,3,,16.4,22.2
+625,Any traditional focus should safe,WEB,Story,Medium,Done,14,3,8,2025-04-08 14:08:39.979288,13,2025-04-14 14:08:39.979288,34.1,6.4
+626,Place edge law worry bar where,MOBILE,Bug,Medium,In Review,12,1,3,2025-04-08 14:06:34.829021,6,,36.9,13.5
+627,Attention media skill,DEV,Task,Medium,In Progress,2,2,7,2025-04-08 14:09:35.916258,10,,21.9,5.0
+628,New player process table,DATA,Bug,High,Done,6,2,2,2025-04-08 14:07:46.033004,11,2025-04-12 14:07:46.033004,9.4,2.5
+629,Second cultural forward,WEB,Bug,Medium,In Progress,3,5,8,2025-04-08 14:05:10.113043,4,,36.7,44.2
+630,Sport federal matter,OPS,Task,High,To Do,15,2,9,2025-04-08 14:09:06.738878,3,,8.4,0.0
+631,Customer seem million,MOBILE,Story,Medium,Done,2,2,8,2025-04-08 14:07:44.139978,4,2025-04-23 14:07:44.139978,2.9,2.5
+632,Rest tonight woman,OPS,Story,Medium,In Progress,12,1,8,2025-04-08 14:07:03.485410,3,,13.8,19.8
+633,Whole writer all,DEV,Bug,Low,To Do,14,1,8,2025-04-08 14:05:58.873994,13,,29.4,0.0
+634,Shoulder clear baby later,DEV,Bug,Medium,Done,13,3,7,2025-04-08 14:05:14.624397,15,2025-04-26 14:05:14.624397,37.0,12.8
+635,Agent hotel one imagine improve,WEB,Task,Medium,In Review,1,3,2,2025-04-08 14:06:21.007473,12,,25.9,18.9
+636,Pass billion already product analysis language,OPS,Story,High,Done,4,1,8,2025-04-08 14:06:01.381745,15,2025-04-17 14:06:01.381745,38.1,55.9
+637,Look task game memory service,DEV,Bug,High,Done,8,1,5,2025-04-08 14:05:27.147419,15,2025-04-28 14:05:27.147419,4.6,5.7
+638,Government teacher position financial responsibility,DATA,Task,Medium,In Progress,3,2,6,2025-04-08 14:07:20.005677,10,,3.4,3.7
+639,Meeting close type by create,DEV,Bug,Medium,Done,5,3,4,2025-04-08 14:07:55.435311,11,2025-04-12 14:07:55.435311,24.6,7.0
+640,Management matter range western agency,DEV,Task,Medium,In Progress,14,5,1,2025-04-08 14:06:55.693780,11,,38.7,44.7
+641,That there day information former,DEV,Bug,Medium,In Progress,10,1,5,2025-04-08 14:05:41.281676,13,,20.6,10.7
+642,Population detail sense size,WEB,Bug,High,Done,5,2,3,2025-04-08 14:05:47.177802,12,2025-04-24 14:05:47.177802,3.0,2.4
+643,Institution pressure theory consider management get,DATA,Bug,Medium,In Review,5,2,9,2025-04-08 14:06:18.267668,6,,9.6,8.8
+644,Cell score paper white sure,DEV,Bug,High,In Progress,11,8,4,2025-04-08 14:07:49.576072,13,,10.5,9.6
+645,Scientist process themselves parent,WEB,Bug,High,In Progress,9,2,10,2025-04-08 14:04:51.273533,7,,14.2,15.5
+646,Use number pressure myself various these,DEV,Task,Critical,Done,15,1,2,2025-04-08 14:04:45.913084,4,2025-04-26 14:04:45.913084,2.7,2.7
+647,White region wind American glass,MOBILE,Bug,Medium,Done,8,2,4,2025-04-08 14:05:21.592133,3,2025-04-13 14:05:21.592133,36.3,3.7
+648,Change family hotel campaign run sea,DEV,Bug,Medium,To Do,8,2,3,2025-04-08 14:06:11.705856,3,,21.1,0.0
+649,People cold standard level artist,WEB,Bug,High,To Do,13,3,3,2025-04-08 14:07:09.556431,11,,27.2,0.0
+650,Major others similar chance,MOBILE,Story,Medium,Done,13,1,5,2025-04-08 14:10:32.745852,3,2025-04-21 14:10:32.745852,3.6,2.5
+651,Which movement name local defense one,WEB,Task,Medium,In Progress,1,2,1,2025-04-08 14:06:16.230527,9,,3.1,3.1
+652,Sometimes others industry,DEV,Story,Low,In Progress,1,3,5,2025-04-08 14:05:11.910931,11,,23.9,10.6
+653,Occur find itself,DEV,Task,Medium,Done,2,1,8,2025-04-08 14:05:15.760808,11,2025-04-14 14:05:15.760808,35.6,16.7
+654,Arrive somebody inside,MOBILE,Bug,Critical,To Do,14,3,10,2025-04-08 14:07:10.200812,14,,21.6,0.0
+655,Role the whatever source,OPS,Bug,Low,Done,8,2,9,2025-04-08 14:09:33.857692,14,2025-04-27 14:09:33.857692,35.2,6.6
+656,Near the view research coach,DATA,Task,Critical,Done,10,5,1,2025-04-08 14:09:34.539380,12,2025-04-20 14:09:34.539380,32.6,20.5
+657,Everyone much when student idea,OPS,Task,Medium,Done,1,1,2,2025-04-08 14:10:02.302862,15,2025-04-23 14:10:02.302862,4.0,5.9
+658,Science whether contain,DATA,Story,Medium,Done,15,8,2,2025-04-08 14:10:23.701537,3,2025-04-17 14:10:23.701537,8.9,3.8
+659,Partner girl also dog,WEB,Story,High,Done,4,1,6,2025-04-08 14:05:18.089428,3,2025-04-15 14:05:18.089428,26.7,21.3
+660,As knowledge run,DEV,Task,Medium,To Do,9,1,1,2025-04-08 14:05:12.343773,8,,18.3,0.0
+661,Idea poor big,DEV,Task,High,To Do,2,5,1,2025-04-08 14:07:02.816660,4,,12.3,0.0
+662,Measure go main,WEB,Bug,Low,Done,3,5,2,2025-04-08 14:09:53.394884,7,2025-04-22 14:09:53.394884,17.3,19.3
+663,Reflect if other,MOBILE,Bug,High,To Do,11,1,4,2025-04-08 14:06:44.900451,3,,18.4,0.0
+664,Mrs important least course magazine,OPS,Epic,Medium,In Progress,6,8,2,2025-04-08 14:10:04.668300,8,,36.5,0.7
+665,Front set statement push camera say,DEV,Bug,Medium,Done,13,1,4,2025-04-08 14:08:00.387503,3,2025-04-27 14:08:00.387503,5.0,6.8
+666,Pressure structure that detail always,WEB,Epic,Critical,Done,15,3,3,2025-04-08 14:07:37.278994,5,2025-04-28 14:07:37.278994,11.9,6.9
+667,Page history woman business always teacher,MOBILE,Task,Medium,Done,11,1,3,2025-04-08 14:06:04.990922,1,2025-04-24 14:06:04.990922,22.0,28.7
+668,Reflect catch great nice approach,WEB,Task,Low,Done,10,2,9,2025-04-08 14:06:11.224974,12,2025-04-12 14:06:11.224974,28.2,1.6
+669,Successful perform yet she few,DEV,Bug,Medium,To Do,3,2,8,2025-04-08 14:10:32.001230,5,,25.6,0.0
+670,Hundred southern me everything cut,MOBILE,Task,Medium,In Progress,15,3,10,2025-04-08 14:06:13.392505,6,,37.7,8.2
+671,Ready quality article manage necessary visit,DEV,Task,Medium,In Review,15,2,9,2025-04-08 14:08:52.284767,7,,32.0,15.5
+672,Wish growth answer,DATA,Task,Low,To Do,4,2,1,2025-04-08 14:09:31.605041,2,,22.7,0.0
+673,Relationship approach thought any action treatment,DATA,Bug,High,Done,9,13,5,2025-04-08 14:05:46.059665,2,2025-04-20 14:05:46.059665,9.4,4.9
+674,Far hot social,DEV,Bug,Medium,To Do,9,1,4,2025-04-08 14:05:23.583432,14,,18.6,0.0
+675,Cell accept unit ten,DEV,Task,High,Done,10,1,9,2025-04-08 14:10:24.078313,9,2025-04-26 14:10:24.078313,28.0,35.6
+676,Exactly simply next anyone that,MOBILE,Task,Low,Done,5,3,3,2025-04-08 14:05:17.611807,15,2025-04-16 14:05:17.611807,33.7,0.6
+677,Set manage economy feel,WEB,Story,Medium,In Progress,7,1,5,2025-04-08 14:07:08.307797,15,,38.4,36.9
+678,Month generation charge them during,DEV,Story,Low,Done,9,2,8,2025-04-08 14:07:17.717771,10,2025-04-25 14:07:17.717771,24.6,4.8
+679,Raise call customer former life president,DATA,Task,Low,Done,8,2,10,2025-04-08 14:07:48.086164,1,2025-04-11 14:07:48.086164,21.5,26.5
+680,Practice seek field kind just,WEB,Task,High,In Progress,11,2,5,2025-04-08 14:09:13.125836,2,,1.7,2.0
+681,Fear themselves film knowledge series,DEV,Bug,Critical,To Do,7,8,9,2025-04-08 14:10:01.911474,2,,3.8,0.0
+682,Mean city high three fund main,WEB,Story,High,Done,12,1,2,2025-04-08 14:05:12.593255,15,2025-04-12 14:05:12.593255,7.1,5.3
+683,Across until successful whom,DEV,Bug,Medium,Done,8,1,6,2025-04-08 14:06:26.105178,13,2025-04-18 14:06:26.105178,3.1,1.0
+684,Feel general spend agree west,DEV,Bug,Medium,In Progress,5,1,5,2025-04-08 14:05:22.298210,15,,16.6,15.8
+685,Recently decision according window approach,WEB,Bug,Medium,In Progress,5,1,9,2025-04-08 14:04:37.689648,10,,14.1,3.3
+686,Son pick born,DEV,Story,Medium,Done,5,2,7,2025-04-08 14:04:53.291461,7,2025-04-24 14:04:53.291461,25.9,7.4
+687,Foreign relationship most art price,WEB,Bug,Medium,In Review,1,3,8,2025-04-08 14:07:27.639840,6,,21.9,20.6
+688,Rather large age be by pay,DATA,Bug,Medium,In Progress,6,3,7,2025-04-08 14:06:20.257958,9,,24.2,36.0
+689,Child organization offer many red,OPS,Task,High,In Progress,5,5,10,2025-04-08 14:05:44.327848,11,,19.4,25.9
+690,Late social line leg yet during,DEV,Bug,High,In Review,8,1,10,2025-04-08 14:10:29.011733,15,,11.8,10.5
+691,Central Mrs size authority same sign,DEV,Story,Medium,In Review,8,1,5,2025-04-08 14:08:19.248114,7,,38.2,30.9
+692,Big catch three,MOBILE,Task,Medium,Done,2,13,5,2025-04-08 14:08:18.833023,3,2025-04-28 14:08:18.833023,4.4,6.6
+693,Yeah involve all,MOBILE,Epic,Low,Done,11,1,4,2025-04-08 14:10:14.551342,3,2025-04-10 14:10:14.551342,37.6,30.9
+694,Prevent place yeah cause impact,OPS,Bug,Medium,To Do,6,13,2,2025-04-08 14:05:45.050662,1,,13.1,0.0
+695,Decision theory either drug worker relate,MOBILE,Bug,Medium,In Review,12,5,9,2025-04-08 14:06:45.258726,8,,21.0,13.2
+696,Factor language amount risk letter already,DEV,Story,Medium,In Progress,11,8,10,2025-04-08 14:05:12.171079,1,,5.2,7.1
+697,Model interest relationship join resource,WEB,Task,Critical,In Progress,10,2,10,2025-04-08 14:05:08.731113,11,,3.8,1.3
+698,More deal small sport wife,OPS,Bug,Critical,In Progress,10,1,10,2025-04-08 14:10:29.357287,14,,17.8,2.6
+699,Your stop teach provide item,DATA,Task,High,Done,15,3,10,2025-04-08 14:06:21.578530,2,2025-04-20 14:06:21.578530,29.9,28.4
+700,Organization western action,DEV,Story,High,In Review,6,3,3,2025-04-08 14:09:08.368341,11,,11.5,1.7
+701,Sea court movement,WEB,Bug,Medium,In Progress,3,1,3,2025-04-08 14:05:07.193730,12,,22.9,12.8
+702,Some computer accept around entire,DEV,Story,Medium,In Review,1,5,3,2025-04-08 14:07:01.959557,7,,11.9,7.6
+703,Opportunity detail establish leader large,WEB,Bug,Medium,In Progress,7,1,8,2025-04-08 14:04:50.870451,1,,16.2,13.3
+704,Southern health military,DEV,Epic,Medium,In Review,10,2,6,2025-04-08 14:10:24.164290,12,,36.4,54.1
+705,Popular enough run probably likely,DATA,Task,High,Done,5,5,1,2025-04-08 14:04:51.733699,4,2025-04-24 14:04:51.733699,34.4,11.4
+706,Assume actually week find forget,MOBILE,Bug,Medium,To Do,12,1,3,2025-04-08 14:07:24.273172,9,,21.1,0.0
+707,Record building either third away,OPS,Task,Medium,In Review,12,1,4,2025-04-08 14:06:11.393751,8,,10.3,5.8
+708,Not manager next between fall own,DATA,Epic,Low,In Progress,10,1,2,2025-04-08 14:04:46.791873,15,,8.5,1.7
+709,Type hundred thousand cover while,DEV,Story,Low,In Progress,5,1,6,2025-04-08 14:05:36.263103,11,,38.2,34.8
+710,Yeah step according partner as lay,MOBILE,Task,Medium,Done,11,1,10,2025-04-08 14:09:03.966455,14,2025-04-18 14:09:03.966455,8.9,9.7
+711,Animal risk mean a your,OPS,Task,Medium,In Progress,8,1,1,2025-04-08 14:10:20.074730,13,,32.5,23.5
+712,Third fact fine test,WEB,Task,High,To Do,12,1,1,2025-04-08 14:06:12.099782,8,,15.4,0.0
+713,Street include candidate still woman,MOBILE,Bug,Critical,Done,5,5,8,2025-04-08 14:08:20.473697,12,2025-04-13 14:08:20.473697,39.4,14.5
+714,Long tell thought thank which,WEB,Bug,Low,To Do,5,8,4,2025-04-08 14:09:18.057877,3,,15.4,0.0
+715,He threat run,MOBILE,Task,Medium,In Progress,1,2,1,2025-04-08 14:06:04.163135,5,,14.7,13.7
+716,Seven opportunity want bring live,DEV,Task,Medium,Done,2,1,7,2025-04-08 14:05:09.216614,15,2025-04-20 14:05:09.216614,25.9,20.9
+717,Reduce teacher newspaper face book,WEB,Bug,Low,Done,5,1,9,2025-04-08 14:07:03.804306,4,2025-04-11 14:07:03.804306,38.5,9.9
+718,Believe job year become,DEV,Story,Medium,In Progress,7,3,10,2025-04-08 14:10:02.066268,11,,39.1,23.8
+719,Build finally he provide laugh,DEV,Task,High,Done,3,3,7,2025-04-08 14:07:29.356289,12,2025-04-20 14:07:29.356289,28.6,18.7
+720,Car matter think who media,DEV,Task,High,In Review,12,13,1,2025-04-08 14:09:40.580670,8,,30.4,44.8
+721,Imagine avoid past work,DEV,Bug,Critical,To Do,15,1,1,2025-04-08 14:08:08.139012,11,,23.0,0.0
+722,Hard clearly debate study able,WEB,Task,Medium,Done,1,5,1,2025-04-08 14:06:54.409662,7,2025-04-09 14:06:54.409662,30.5,38.9
+723,Four Mrs throw especially,DEV,Task,Medium,Done,11,2,8,2025-04-08 14:09:41.766398,14,2025-04-10 14:09:41.766398,34.5,38.0
+724,Democratic citizen recently figure rather site,DEV,Task,Low,In Progress,12,8,7,2025-04-08 14:05:52.324071,7,,20.0,26.7
+725,Particularly money example official his,MOBILE,Bug,Medium,In Progress,2,3,3,2025-04-08 14:08:05.145131,10,,25.2,27.8
+726,Cultural such big decide purpose peace,MOBILE,Task,High,Done,3,2,3,2025-04-08 14:07:17.974404,10,2025-04-19 14:07:17.974404,22.0,29.8
+727,Tonight skin born figure mind,MOBILE,Epic,High,In Progress,12,3,3,2025-04-08 14:04:49.929069,7,,22.9,1.9
+728,Glass woman whole,DATA,Task,Medium,To Do,9,5,2,2025-04-08 14:07:08.987540,1,,35.7,0.0
+729,Worker real foot subject remain whom,DEV,Bug,Low,Done,8,1,4,2025-04-08 14:04:55.939669,13,2025-04-20 14:04:55.939669,14.9,10.2
+730,City here fire,DEV,Story,High,Done,15,1,7,2025-04-08 14:05:15.499722,15,2025-04-15 14:05:15.499722,9.1,10.2
+731,Can meeting firm,DEV,Bug,Low,In Review,4,2,9,2025-04-08 14:07:42.678739,7,,18.8,16.4
+732,Expect national discover sea laugh assume,DATA,Bug,Medium,Done,8,1,3,2025-04-08 14:06:23.097967,4,2025-04-09 14:06:23.097967,9.1,2.4
+733,Wear friend life skin,MOBILE,Bug,High,To Do,13,2,10,2025-04-08 14:04:40.308719,12,,20.4,0.0
+734,Federal with give recently former could,DEV,Bug,Low,Done,9,21,7,2025-04-08 14:07:46.887897,3,2025-04-21 14:07:46.887897,36.2,18.5
+735,Home change reach fund market music,DEV,Task,Critical,Done,3,3,4,2025-04-08 14:07:32.465079,13,2025-04-21 14:07:32.465079,25.1,12.0
+736,Main care control see recently financial,MOBILE,Bug,Medium,Done,6,3,1,2025-04-08 14:07:52.045754,12,2025-04-10 14:07:52.045754,34.4,13.5
+737,Life meeting political half,DEV,Story,Critical,Done,8,3,5,2025-04-08 14:07:44.655830,13,2025-04-18 14:07:44.655830,7.5,3.9
+738,Record market join movie worry social,WEB,Task,Low,Done,10,5,8,2025-04-08 14:09:26.567451,15,2025-04-09 14:09:26.567451,36.1,27.9
+739,Bit family seem order seem area Republican,DATA,Task,Low,Done,7,8,3,2025-04-08 14:08:00.037393,5,2025-04-15 14:08:00.037393,24.5,31.4
+740,Peace pick prepare perform,WEB,Task,Low,Done,9,3,10,2025-04-08 14:08:36.185309,2,2025-04-21 14:08:36.185309,2.2,2.4
+741,Age half perhaps ever,DATA,Task,High,Done,7,2,4,2025-04-08 14:10:09.265085,8,2025-04-10 14:10:09.265085,25.7,32.2
+742,Investment election space common mouth history,DEV,Task,High,In Progress,1,2,3,2025-04-08 14:05:58.916625,12,,38.1,50.5
+743,Yard grow meet few bar international,MOBILE,Story,Medium,To Do,9,2,10,2025-04-08 14:08:38.756520,12,,4.1,0.0
+744,My city rest offer thing,OPS,Story,High,To Do,12,2,8,2025-04-08 14:08:23.323696,9,,23.7,0.0
+745,Admit bar read suddenly reason,WEB,Task,Medium,In Progress,5,2,10,2025-04-08 14:04:58.556258,5,,36.7,22.9
+746,Economy experience defense,MOBILE,Task,Medium,In Review,6,3,8,2025-04-08 14:06:29.056305,3,,1.4,0.7
+747,If magazine worry or girl guess,MOBILE,Story,High,Done,2,3,4,2025-04-08 14:08:26.046080,10,2025-04-28 14:08:26.046080,25.6,2.2
+748,Simple brother sometimes,OPS,Task,Medium,Done,15,1,2,2025-04-08 14:08:42.954113,7,2025-04-15 14:08:42.954113,19.5,27.2
+749,Attention claim could likely sort cold,DEV,Bug,Low,Done,2,13,3,2025-04-08 14:08:26.874358,1,2025-04-25 14:08:26.874358,14.5,1.4
+750,Effect employee wide father leg wrong,DEV,Bug,Low,To Do,13,2,3,2025-04-08 14:06:13.626549,10,,25.5,0.0
+751,Similar different produce whether west room,DEV,Epic,Medium,To Do,4,3,4,2025-04-08 14:08:40.299788,3,,3.1,0.0
+752,Discussion organization second,DATA,Bug,Medium,In Progress,4,3,2,2025-04-08 14:07:00.936389,9,,30.4,33.8
+753,Hair fly mission understand ever,DATA,Story,High,Done,5,3,2,2025-04-08 14:06:19.858862,2,2025-04-13 14:06:19.858862,1.2,0.7
+754,Anyone standard then,DEV,Bug,High,In Progress,7,2,3,2025-04-08 14:07:24.977115,11,,13.0,18.5
+755,Instead yes exactly,DEV,Task,Medium,Done,13,5,1,2025-04-08 14:08:48.750579,14,2025-04-19 14:08:48.750579,20.7,13.0
+756,Reason leave husband before,DATA,Task,Low,In Progress,11,1,8,2025-04-08 14:06:51.719099,9,,15.7,19.2
+757,Road yeah like,DEV,Bug,Critical,In Progress,12,3,6,2025-04-08 14:05:26.614987,11,,13.0,5.5
+758,Weight event open brother edge benefit,DEV,Story,High,Done,15,1,3,2025-04-08 14:08:26.492955,1,2025-04-19 14:08:26.492955,33.4,15.0
+759,Whose several most,DEV,Task,Critical,Done,1,3,1,2025-04-08 14:06:07.927866,4,2025-04-19 14:06:07.927866,37.5,33.5
+760,Manager college institution operation,DEV,Task,High,To Do,10,1,3,2025-04-08 14:07:35.282316,12,,35.1,0.0
+761,Design travel notice,MOBILE,Task,Critical,In Progress,4,5,1,2025-04-08 14:05:46.919888,10,,21.4,32.0
+762,Song player today,WEB,Bug,Medium,Done,13,1,3,2025-04-08 14:06:07.494242,13,2025-04-25 14:06:07.494242,35.5,27.6
+763,Kind whole raise,WEB,Task,Medium,In Progress,9,5,4,2025-04-08 14:09:33.122040,6,,36.9,51.8
+764,Future ball image,DATA,Bug,High,In Review,8,5,6,2025-04-08 14:09:31.749970,15,,17.0,20.0
+765,Success enjoy adult determine others,DEV,Task,High,Done,3,2,7,2025-04-08 14:09:24.400620,13,2025-04-27 14:09:24.400620,12.1,14.4
+766,Keep audience else direction herself,DEV,Epic,Medium,Done,6,2,7,2025-04-08 14:08:24.929281,7,2025-04-16 14:08:24.929281,4.8,3.1
+767,Doctor despite great evening easy heavy,OPS,Task,Medium,In Progress,11,3,9,2025-04-08 14:05:10.881293,15,,19.7,11.4
+768,Near hotel pull capital baby nothing,MOBILE,Story,Critical,In Progress,9,1,8,2025-04-08 14:06:58.839537,15,,37.9,10.9
+769,Firm only bit even,DEV,Task,Low,Done,8,1,4,2025-04-08 14:08:01.129034,3,2025-04-28 14:08:01.129034,22.9,33.1
+770,Pass certain window type customer,DEV,Bug,Medium,Done,7,1,6,2025-04-08 14:10:20.900977,9,2025-04-22 14:10:20.900977,27.0,38.9
+771,Final all far plan model item,DEV,Task,Medium,Done,7,3,1,2025-04-08 14:09:50.618730,4,2025-04-18 14:09:50.618730,5.4,6.1
+772,Decide position exactly,MOBILE,Story,Low,In Progress,1,1,8,2025-04-08 14:06:14.525848,5,,6.6,2.9
+773,Lay probably billion drive bed,DEV,Bug,Medium,Done,15,1,6,2025-04-08 14:06:22.436244,8,2025-04-15 14:06:22.436244,19.1,7.0
+774,My until what bank indicate,WEB,Story,Low,In Progress,5,3,2,2025-04-08 14:06:17.953217,15,,38.1,56.5
+775,Side this radio,DEV,Task,Low,In Review,7,1,8,2025-04-08 14:05:43.664938,12,,15.1,1.5
+776,Point agreement nor,OPS,Bug,High,In Review,14,1,4,2025-04-08 14:06:18.073119,15,,35.2,44.5
+777,Enough speak clearly day dog,DEV,Task,Low,In Progress,13,8,9,2025-04-08 14:09:01.306757,14,,5.7,3.0
+778,Leave kid allow by,WEB,Task,High,In Progress,2,3,4,2025-04-08 14:05:07.889979,3,,25.1,15.8
+779,Up issue him team although,DEV,Bug,High,To Do,15,2,1,2025-04-08 14:07:23.307381,8,,24.4,0.0
+780,Maybe win nice candidate camera,DEV,Story,Low,To Do,6,1,7,2025-04-08 14:09:59.988960,14,,34.5,0.0
+781,News model military natural traditional,MOBILE,Story,Low,To Do,14,3,10,2025-04-08 14:06:10.934225,14,,1.1,0.0
+782,On past second grow dream sense,MOBILE,Story,Medium,Done,2,1,5,2025-04-08 14:09:44.661324,11,2025-04-10 14:09:44.661324,8.4,10.5
+783,Approach measure agreement report expect him,MOBILE,Story,High,Done,3,13,10,2025-04-08 14:07:00.644140,1,2025-04-25 14:07:00.644140,9.6,1.3
+784,Maybe decade idea,MOBILE,Epic,Medium,In Review,1,3,5,2025-04-08 14:06:20.248824,8,,38.0,20.2
+785,Wind nearly recent,DEV,Epic,Medium,In Review,3,13,4,2025-04-08 14:07:46.742666,14,,7.0,10.0
+786,Fact even be unit grow,MOBILE,Bug,High,In Progress,15,5,6,2025-04-08 14:05:50.276613,13,,2.4,2.5
+787,Simply claim free nearly grow,DEV,Task,Low,In Review,7,2,1,2025-04-08 14:10:09.896249,15,,21.8,24.7
+788,Various church rate board everything girl,DEV,Bug,Medium,To Do,5,3,3,2025-04-08 14:05:15.788959,11,,21.6,0.0
+789,Dinner line sense especially end,MOBILE,Task,High,In Progress,4,5,7,2025-04-08 14:08:18.207437,11,,33.9,38.5
+790,Might style every walk,OPS,Epic,High,Done,15,3,8,2025-04-08 14:07:15.792191,15,2025-04-09 14:07:15.792191,38.0,3.5
+791,Line seat seven reach maybe art,MOBILE,Bug,Medium,In Progress,15,1,9,2025-04-08 14:07:04.943232,12,,22.0,6.7
+792,Claim year feeling rise show,OPS,Task,Medium,In Progress,13,2,1,2025-04-08 14:07:28.160402,10,,37.3,27.5
+793,Pass scene young,DATA,Task,High,In Review,12,1,4,2025-04-08 14:06:20.687156,8,,29.3,16.2
+794,Important our future whole,DEV,Bug,Medium,In Progress,8,3,2,2025-04-08 14:05:46.986279,6,,11.3,7.0
+795,While learn pattern simply,DATA,Bug,High,To Do,8,3,2,2025-04-08 14:04:36.805018,5,,37.2,0.0
+796,Bank performance sell loss,MOBILE,Task,Medium,To Do,1,21,1,2025-04-08 14:07:09.801238,9,,27.0,0.0
+797,Quickly American year,OPS,Bug,Medium,Done,9,3,5,2025-04-08 14:08:57.863190,6,2025-04-21 14:08:57.863190,17.1,20.0
+798,Age than second pattern grow,MOBILE,Task,High,Done,14,5,2,2025-04-08 14:05:05.232730,15,2025-04-27 14:05:05.232730,27.5,0.6
+799,Reflect state reality hard threat dream,WEB,Task,Medium,In Progress,9,1,4,2025-04-08 14:10:07.005432,1,,16.7,16.5
+800,Fly can reach but campaign,MOBILE,Task,Medium,Done,2,2,9,2025-04-08 14:09:02.563367,12,2025-04-22 14:09:02.563367,5.5,0.0
+801,Arrive exactly Democrat report century check,DEV,Bug,Medium,In Progress,2,8,3,2025-04-08 14:05:53.345191,6,,29.0,2.7
+802,Professor until structure,DATA,Task,Medium,Done,8,5,8,2025-04-08 14:04:55.147431,1,2025-04-26 14:04:55.147431,33.1,20.3
+803,Run talk situation son,DEV,Bug,Low,Done,12,3,10,2025-04-08 14:08:29.750712,6,2025-04-28 14:08:29.750712,29.4,37.1
+804,Business improve if,DEV,Story,Low,Done,11,1,6,2025-04-08 14:07:45.154843,3,2025-04-22 14:07:45.154843,9.9,2.2
+805,Amount reach finish kind interesting,DEV,Task,High,Done,6,3,10,2025-04-08 14:10:14.471759,6,2025-04-23 14:10:14.471759,38.3,31.9
+806,Individual deal economy before become on,DEV,Story,Medium,Done,3,5,5,2025-04-08 14:06:39.432066,13,2025-04-22 14:06:39.432066,2.0,2.0
+807,Store summer field along,DEV,Story,Critical,In Review,12,1,2,2025-04-08 14:06:30.476285,6,,14.0,4.8
+808,Government various special under market,DEV,Story,Critical,Done,2,3,3,2025-04-08 14:05:25.455493,1,2025-04-13 14:05:25.455493,11.1,8.5
+809,Agreement debate simply,WEB,Task,High,In Review,5,2,8,2025-04-08 14:10:24.189562,13,,2.9,4.0
+810,Pick together keep daughter,WEB,Bug,Low,In Review,15,1,9,2025-04-08 14:08:28.411386,9,,16.8,12.9
+811,Hour evidence expert will,DEV,Task,Medium,In Review,8,5,7,2025-04-08 14:05:56.318621,8,,25.3,6.0
+812,Form sea data,DEV,Bug,High,In Progress,6,1,1,2025-04-08 14:10:15.070429,15,,35.4,33.3
+813,Green country player he free,DATA,Epic,High,To Do,12,1,6,2025-04-08 14:10:34.861710,15,,39.6,0.0
+814,Training five defense language imagine,DEV,Task,Low,Done,3,5,7,2025-04-08 14:08:19.537593,2,2025-04-24 14:08:19.537593,32.5,28.9
+815,Question someone fill require,DEV,Epic,Medium,Done,12,3,6,2025-04-08 14:05:36.534940,2,2025-04-13 14:05:36.534940,19.3,0.8
+816,Line public able much personal,DEV,Story,Medium,To Do,12,1,10,2025-04-08 14:07:50.830923,5,,29.2,0.0
+817,Report east of throughout per,DEV,Bug,Low,Done,9,8,2,2025-04-08 14:10:31.692105,15,2025-04-21 14:10:31.692105,33.9,4.6
+818,Win feel court capital democratic,MOBILE,Task,Medium,In Review,8,1,9,2025-04-08 14:05:13.356036,10,,19.1,4.5
+819,Same report statement pull,DEV,Bug,High,In Progress,10,21,3,2025-04-08 14:04:55.557011,2,,31.6,6.5
+820,Couple meeting tax career,WEB,Bug,Medium,In Progress,6,3,6,2025-04-08 14:10:28.173103,11,,19.8,7.7
+821,Step though major market,DEV,Bug,Low,Done,1,2,6,2025-04-08 14:09:47.397326,1,2025-04-24 14:09:47.397326,16.1,11.0
+822,On kitchen green imagine development look,MOBILE,Epic,Low,To Do,2,1,8,2025-04-08 14:07:57.837559,2,,21.5,0.0
+823,Money best bed,MOBILE,Task,Critical,In Progress,4,2,4,2025-04-08 14:07:56.170366,5,,27.4,15.3
+824,Find without short night the,DEV,Task,High,To Do,2,1,6,2025-04-08 14:07:11.634090,11,,29.3,0.0
+825,Situation operation watch by beyond,DEV,Bug,High,In Progress,3,3,1,2025-04-08 14:09:48.730999,15,,14.9,19.9
+826,Them behind certain never pattern sport,DEV,Task,Medium,Done,14,2,9,2025-04-08 14:06:10.468877,10,2025-04-23 14:06:10.468877,23.3,21.4
+827,Ground young poor,MOBILE,Task,Medium,Done,8,1,9,2025-04-08 14:04:35.266052,14,2025-04-13 14:04:35.266052,36.5,48.0
+828,Test white foot practice,DEV,Task,High,Done,9,5,7,2025-04-08 14:05:01.454714,7,2025-04-14 14:05:01.454714,39.1,30.9
+829,Writer final city west floor,WEB,Bug,Medium,Done,6,1,1,2025-04-08 14:08:28.594263,5,2025-04-21 14:08:28.594263,9.9,1.3
+830,Attorney weight answer,DEV,Task,Medium,Done,4,3,3,2025-04-08 14:05:10.263873,1,2025-04-24 14:05:10.263873,8.5,5.9
+831,Purpose exist beyond western practice,DEV,Task,Medium,Done,11,1,5,2025-04-08 14:07:11.833252,7,2025-04-18 14:07:11.833252,27.4,33.8
+832,Hot even along create,DEV,Bug,Low,To Do,2,3,4,2025-04-08 14:07:00.344257,6,,17.2,0.0
+833,Crime indicate sister firm see but,DEV,Epic,Medium,In Progress,7,3,5,2025-04-08 14:06:07.760782,7,,1.9,0.6
+834,Likely open really interview one,DEV,Bug,Medium,Done,10,5,7,2025-04-08 14:09:59.604508,2,2025-04-10 14:09:59.604508,14.5,2.0
+835,Special six chair guy,DEV,Task,Medium,In Progress,11,1,9,2025-04-08 14:10:11.518280,5,,32.5,16.1
+836,Nation fill south research,WEB,Bug,Low,In Progress,7,1,1,2025-04-08 14:10:01.308213,14,,32.1,18.7
+837,Instead order southern statement,DEV,Bug,High,In Progress,10,1,5,2025-04-08 14:09:20.252202,8,,20.3,9.3
+838,Purpose treat almost mission she able,MOBILE,Epic,Low,In Progress,9,1,3,2025-04-08 14:07:30.614166,13,,19.4,3.9
+839,Generation rate sound over tonight song,MOBILE,Story,Critical,Done,5,1,3,2025-04-08 14:05:04.696594,12,2025-04-21 14:05:04.696594,23.6,8.9
+840,However major avoid guy baby,MOBILE,Task,Critical,Done,10,3,2,2025-04-08 14:04:44.213685,7,2025-04-25 14:04:44.213685,9.6,9.8
+841,Cup we certain,DATA,Story,High,Done,4,3,6,2025-04-08 14:04:45.505185,6,2025-04-09 14:04:45.505185,21.5,12.4
+842,Low throw on inside,DEV,Story,Low,Done,10,5,6,2025-04-08 14:10:01.675730,13,2025-04-12 14:10:01.675730,1.4,1.3
+843,Loss technology television,DEV,Task,Medium,In Progress,6,2,3,2025-04-08 14:09:55.376168,6,,19.5,15.7
+844,Fund thus cultural state two,MOBILE,Story,Critical,To Do,12,2,1,2025-04-08 14:06:31.246094,12,,14.1,0.0
+845,Such approach event,WEB,Task,Low,Done,2,21,7,2025-04-08 14:09:55.783011,1,2025-04-26 14:09:55.783011,27.3,22.5
+846,Science party high become,WEB,Task,Medium,To Do,2,2,2,2025-04-08 14:07:59.451951,1,,25.9,0.0
+847,Standard admit stay go his operation,DEV,Story,Low,To Do,12,3,8,2025-04-08 14:08:43.234056,7,,15.9,0.0
+848,Science big buy trip,WEB,Bug,High,Done,9,21,3,2025-04-08 14:07:11.722532,3,2025-04-14 14:07:11.722532,1.3,0.5
+849,Business though set list close,DATA,Story,High,In Review,7,21,1,2025-04-08 14:10:00.395393,6,,10.8,8.4
+850,Artist beyond instead executive,DEV,Bug,Medium,Done,7,2,10,2025-04-08 14:08:21.154739,12,2025-04-20 14:08:21.154739,25.7,0.9
+851,Moment force education fly form,DATA,Story,Medium,In Review,13,3,9,2025-04-08 14:10:14.603747,5,,3.8,2.5
+852,Activity tree card,DEV,Task,Medium,Done,5,2,5,2025-04-08 14:09:48.901390,3,2025-04-28 14:09:48.901390,5.2,4.5
+853,Recognize help American wonder author,DEV,Task,Medium,Done,7,3,1,2025-04-08 14:04:37.578875,6,2025-04-21 14:04:37.578875,26.2,7.2
+854,You probably some market,DEV,Bug,Medium,In Progress,9,8,10,2025-04-08 14:10:24.499770,3,,30.5,11.7
+855,Indicate local since strong attack enjoy,WEB,Story,High,In Review,10,2,6,2025-04-08 14:07:34.690573,8,,13.5,4.4
+856,Course south particular occur mention together,MOBILE,Bug,Medium,Done,5,5,10,2025-04-08 14:08:40.695632,14,2025-04-10 14:08:40.695632,20.1,2.1
+857,Throughout then difference million,WEB,Task,Medium,To Do,9,3,3,2025-04-08 14:05:39.509872,15,,37.9,0.0
+858,Begin age movement best interview,WEB,Task,Critical,To Do,1,1,4,2025-04-08 14:07:50.562123,7,,37.9,0.0
+859,Forget strong people break,DEV,Bug,High,Done,13,5,8,2025-04-08 14:08:00.582754,9,2025-04-25 14:08:00.582754,13.0,6.8
+860,Environmental himself everyone line ball,DEV,Epic,Medium,In Progress,15,2,5,2025-04-08 14:05:59.137257,5,,32.6,47.9
+861,Behind southern no shoulder phone time individual,DEV,Bug,Low,In Progress,12,1,6,2025-04-08 14:06:28.035366,12,,24.2,12.8
+862,Food Mr heavy standard ready,DATA,Task,High,Done,3,21,10,2025-04-08 14:07:27.868029,15,2025-04-18 14:07:27.868029,39.0,26.9
+863,Claim send property,DEV,Task,High,To Do,7,2,4,2025-04-08 14:07:09.109452,1,,19.6,0.0
+864,Next during weight beyond teach,OPS,Bug,Critical,In Review,4,2,6,2025-04-08 14:08:35.606005,11,,31.2,30.6
+865,Visit student human none,DEV,Bug,Low,To Do,15,5,3,2025-04-08 14:08:30.921257,10,,31.0,0.0
+866,Politics approach teach we contain,DEV,Story,Medium,In Review,2,13,10,2025-04-08 14:07:10.543545,15,,20.4,19.8
+867,Industry foot treat perhaps,DEV,Epic,Low,Done,12,5,1,2025-04-08 14:04:58.793662,11,2025-04-27 14:04:58.793662,32.0,45.6
+868,Individual to seven street arm stock,DEV,Bug,Low,Done,14,2,6,2025-04-08 14:07:32.261400,8,2025-04-13 14:07:32.261400,11.2,14.4
+869,Party and available,DATA,Bug,Medium,To Do,3,2,1,2025-04-08 14:09:52.862529,2,,5.8,0.0
+870,Newspaper account question entire begin nothing,MOBILE,Epic,High,To Do,7,1,10,2025-04-08 14:05:16.489408,6,,17.6,0.0
+871,Alone someone develop fall wait,DATA,Bug,Medium,Done,8,2,3,2025-04-08 14:09:39.522245,1,2025-04-20 14:09:39.522245,37.8,45.0
+872,Phone church note them nature after,OPS,Task,Critical,Done,11,8,8,2025-04-08 14:08:01.821200,6,2025-04-26 14:08:01.821200,20.5,29.3
+873,Body pay system government,WEB,Task,High,To Do,9,3,7,2025-04-08 14:08:59.569295,4,,25.8,0.0
+874,No research choose think,MOBILE,Bug,High,Done,6,1,8,2025-04-08 14:09:07.613368,5,2025-04-17 14:09:07.613368,25.3,8.8
+875,In price special either knowledge,MOBILE,Task,Medium,Done,10,1,10,2025-04-08 14:10:11.874389,15,2025-04-19 14:10:11.874389,6.2,5.7
+876,Possible enter month kitchen product exactly,MOBILE,Epic,Medium,In Progress,9,8,10,2025-04-08 14:09:50.409158,10,,16.2,21.6
+877,True visit scene several,DEV,Task,Medium,In Review,4,5,2,2025-04-08 14:06:19.063431,7,,28.6,26.8
+878,Performance matter run get,WEB,Story,Medium,To Do,12,2,10,2025-04-08 14:08:51.848584,13,,38.9,0.0
+879,Low report world visit,WEB,Task,High,To Do,5,3,7,2025-04-08 14:07:31.530186,6,,7.6,0.0
+880,Both red church their,DEV,Task,Medium,Done,1,1,4,2025-04-08 14:08:12.848676,1,2025-04-12 14:08:12.848676,17.0,24.9
+881,Color huge month,WEB,Bug,Medium,In Progress,14,5,1,2025-04-08 14:07:11.175644,9,,4.7,0.7
+882,Believe scientist huge,OPS,Story,High,Done,9,3,3,2025-04-08 14:09:49.820545,6,2025-04-18 14:09:49.820545,10.5,6.9
+883,Fly tax rather fire,WEB,Task,Medium,In Review,9,3,5,2025-04-08 14:06:38.371197,6,,15.7,23.0
+884,Huge cut its send safe father,WEB,Bug,Medium,In Progress,9,2,10,2025-04-08 14:05:15.004493,9,,22.1,12.6
+885,Instead organization born reach,DEV,Epic,Critical,In Progress,3,2,8,2025-04-08 14:06:45.639208,12,,10.0,11.1
+886,Opportunity look beautiful style,MOBILE,Story,High,To Do,13,1,2,2025-04-08 14:09:15.845245,10,,9.9,0.0
+887,Program address gun vote why describe,DEV,Epic,Low,Done,15,8,2,2025-04-08 14:10:02.823501,5,2025-04-09 14:10:02.823501,31.3,1.4
+888,How same area,DATA,Bug,Critical,In Review,10,8,8,2025-04-08 14:06:01.171591,11,,38.5,40.1
+889,Pretty either discover traditional however,DATA,Story,Medium,Done,10,5,9,2025-04-08 14:08:36.399485,15,2025-04-10 14:08:36.399485,13.6,19.1
+890,In deep our center fill summer,DATA,Task,Low,Done,10,8,10,2025-04-08 14:10:04.604447,6,2025-04-17 14:10:04.604447,27.8,16.0
+891,Analysis job better of,DEV,Epic,Medium,Done,8,3,1,2025-04-08 14:08:53.258399,6,2025-04-26 14:08:53.258399,11.1,0.4
+892,Nor feeling gas wind race,DEV,Epic,High,To Do,3,1,2,2025-04-08 14:09:47.726096,7,,37.2,0.0
+893,Common democratic grow party,DATA,Epic,Low,To Do,13,5,4,2025-04-08 14:10:27.574702,9,,27.2,0.0
+894,Force foot message it physical door,OPS,Epic,Medium,Done,6,2,3,2025-04-08 14:10:25.280700,5,2025-04-24 14:10:25.280700,32.3,1.4
+895,People although green,DATA,Bug,Medium,Done,5,2,1,2025-04-08 14:08:35.427586,5,2025-04-22 14:08:35.427586,2.9,3.9
+896,Attention reality chance,WEB,Story,Medium,In Review,8,1,4,2025-04-08 14:07:25.717427,4,,24.3,26.3
+897,Population run scientist TV reflect,WEB,Bug,Medium,Done,3,2,2,2025-04-08 14:06:02.920310,10,2025-04-12 14:06:02.920310,21.6,3.5
+898,Then similar break world general one,DEV,Story,Low,In Progress,14,3,10,2025-04-08 14:05:21.656984,4,,12.4,1.0
+899,Daughter measure deal fine,OPS,Epic,Low,In Progress,1,1,5,2025-04-08 14:06:48.926031,12,,11.2,13.5
+900,Group wind cell,MOBILE,Bug,Medium,To Do,12,1,1,2025-04-08 14:06:29.387568,8,,23.6,0.0
+901,Pretty cut do site yeah far,DEV,Task,Low,In Progress,9,3,8,2025-04-08 14:08:19.700879,13,,28.6,34.7
+902,Citizen factor decide meet well,DEV,Story,Low,In Progress,10,5,10,2025-04-08 14:04:38.625066,2,,2.3,0.4
+903,Bed popular girl maybe affect,WEB,Bug,Low,In Review,9,3,2,2025-04-08 14:09:29.255239,10,,23.1,10.4
+904,Prepare today society property send,MOBILE,Bug,Medium,Done,3,1,3,2025-04-08 14:08:30.161976,8,2025-04-10 14:08:30.161976,7.6,8.9
+905,Focus friend ground mother,DEV,Bug,High,Done,2,2,3,2025-04-08 14:06:57.016324,2,2025-04-20 14:06:57.016324,6.5,5.1
+906,Behavior affect fight teacher,DEV,Bug,Medium,Done,4,5,4,2025-04-08 14:09:07.163210,15,2025-04-28 14:09:07.163210,25.3,36.3
+907,Serious tend describe middle vote,DEV,Task,Critical,In Review,14,3,7,2025-04-08 14:08:30.366237,1,,13.1,9.5
+908,Measure truth time another program determine,DEV,Task,Medium,To Do,8,1,9,2025-04-08 14:05:09.528513,10,,18.2,0.0
+909,Best any there skill soldier,DATA,Bug,High,Done,6,13,3,2025-04-08 14:06:15.802224,13,2025-04-13 14:06:15.802224,15.0,15.2
+910,Positive address yard large,MOBILE,Epic,Low,To Do,10,1,1,2025-04-08 14:08:44.058903,15,,26.3,0.0
+911,Center blue safe Congress system official,MOBILE,Task,Medium,In Progress,15,1,10,2025-04-08 14:05:30.608190,9,,19.3,14.8
+912,Heavy real can,MOBILE,Task,Medium,In Review,15,2,1,2025-04-08 14:06:13.471469,11,,38.6,54.6
+913,Mother physical while traditional police,DEV,Bug,Medium,Done,1,2,6,2025-04-08 14:09:53.112141,8,2025-04-12 14:09:53.112141,14.7,8.8
+914,Up pattern short save,MOBILE,Task,High,To Do,15,21,5,2025-04-08 14:05:46.307217,6,,29.9,0.0
+915,Century health prevent drop,DATA,Task,Medium,In Progress,8,1,10,2025-04-08 14:07:57.035303,4,,11.0,3.8
+916,Person role each success run according,MOBILE,Story,Medium,Done,5,2,7,2025-04-08 14:07:04.856799,2,2025-04-23 14:07:04.856799,20.8,10.2
+917,Simple fine a,WEB,Task,Low,To Do,13,2,7,2025-04-08 14:06:12.916871,8,,22.6,0.0
+918,Development just religious little world,MOBILE,Bug,Critical,Done,6,2,3,2025-04-08 14:07:13.456707,3,2025-04-11 14:07:13.456707,13.8,17.7
+919,Start reflect down,DATA,Epic,High,In Progress,5,1,7,2025-04-08 14:09:14.275521,10,,19.4,14.5
+920,Deep determine resource maybe toward imagine,DEV,Task,Medium,To Do,10,1,9,2025-04-08 14:08:43.025042,4,,11.9,0.0
+921,Spend whether money,DEV,Task,Critical,In Progress,5,1,8,2025-04-08 14:09:57.854377,5,,1.2,0.6
+922,North dark his if interesting admit,DATA,Epic,High,Done,3,3,3,2025-04-08 14:08:43.089968,13,2025-04-25 14:08:43.089968,9.4,7.7
+923,North admit customer generation,DATA,Task,High,In Review,14,5,10,2025-04-08 14:09:43.020933,4,,28.3,5.7
+924,Recent against her,WEB,Story,Medium,Done,4,3,5,2025-04-08 14:06:28.584671,11,2025-04-16 14:06:28.584671,31.1,0.3
+925,Three something like central water still,DEV,Task,High,In Progress,5,3,8,2025-04-08 14:06:12.481227,8,,11.9,5.0
+926,Somebody management education police nor view,DEV,Bug,Medium,To Do,11,2,2,2025-04-08 14:08:57.832187,9,,16.9,0.0
+927,Writer have scene,WEB,Epic,Low,In Review,11,5,7,2025-04-08 14:08:51.112261,14,,2.5,2.3
+928,Summer prove night,DATA,Task,Medium,In Progress,2,2,10,2025-04-08 14:10:17.282108,14,,10.2,10.9
+929,Soldier Mrs respond imagine trial,DEV,Task,Medium,Done,6,1,10,2025-04-08 14:06:30.569024,14,2025-04-20 14:06:30.569024,31.4,38.9
+930,Avoid officer speech,WEB,Epic,Medium,To Do,2,3,7,2025-04-08 14:08:13.545210,1,,24.6,0.0
+931,Morning happy small more hear,DATA,Task,High,Done,4,3,8,2025-04-08 14:06:13.203414,2,2025-04-16 14:06:13.203414,9.0,12.5
+932,Someone nature machine,DEV,Story,Critical,Done,12,2,1,2025-04-08 14:06:40.310643,12,2025-04-28 14:06:40.310643,11.0,6.8
+933,Protect add customer student learn friend,MOBILE,Story,High,In Review,1,1,8,2025-04-08 14:08:34.857514,4,,32.9,36.5
+934,Interview together other national leg reduce,DEV,Bug,Medium,In Progress,4,1,1,2025-04-08 14:06:29.864648,1,,9.2,1.0
+935,Rather nation always,OPS,Bug,Medium,Done,14,5,3,2025-04-08 14:08:56.488153,11,2025-04-28 14:08:56.488153,14.0,1.2
+936,Attorney record appear card,DATA,Bug,Low,In Progress,7,1,9,2025-04-08 14:10:28.129069,6,,26.9,5.0
+937,Business several pick whole,DEV,Story,Low,Done,15,3,4,2025-04-08 14:09:09.160712,15,2025-04-13 14:09:09.160712,22.9,15.4
+938,Age worker simple,OPS,Bug,Critical,Done,14,1,10,2025-04-08 14:04:54.505660,12,2025-04-14 14:04:54.505660,19.0,6.0
+939,Argue ability rock series,DATA,Task,Medium,Done,8,1,9,2025-04-08 14:09:21.278979,5,2025-04-13 14:09:21.278979,36.1,15.5
+940,Use travel rise despite law state,DATA,Bug,Critical,To Do,2,1,1,2025-04-08 14:09:11.643261,13,,9.6,0.0
+941,Left hold may,WEB,Task,Medium,To Do,3,1,8,2025-04-08 14:08:42.355318,7,,29.9,0.0
+942,Parent floor activity,WEB,Task,High,In Progress,1,1,3,2025-04-08 14:04:59.285987,12,,7.2,7.0
+943,Threat run test your,DEV,Epic,Low,Done,15,3,7,2025-04-08 14:09:52.100103,6,2025-04-16 14:09:52.100103,25.0,13.4
+944,Address paper tree among ever some,DEV,Task,Low,To Do,7,2,2,2025-04-08 14:05:59.090349,14,,35.0,0.0
+945,Place condition left how bag nation,WEB,Task,Critical,In Progress,4,5,7,2025-04-08 14:05:59.124410,14,,18.9,15.8
+946,Certainly bit local number,DEV,Story,Medium,In Progress,11,1,7,2025-04-08 14:09:00.484455,3,,29.2,18.1
+947,Record scientist parent,MOBILE,Task,Medium,To Do,10,5,9,2025-04-08 14:06:16.771088,5,,33.0,0.0
+948,Listen amount level success wrong realize,WEB,Epic,Medium,In Progress,8,21,2,2025-04-08 14:06:37.505691,3,,6.3,1.6
+949,Eight firm certainly rate represent name,OPS,Task,Medium,In Progress,5,1,8,2025-04-08 14:09:31.635007,9,,28.5,3.2
+950,Year sport interesting beat,OPS,Task,Medium,In Review,9,13,5,2025-04-08 14:05:48.662341,2,,36.9,13.1
+951,Grow know six nature return large,DEV,Epic,Low,In Progress,6,1,10,2025-04-08 14:07:57.097174,6,,23.5,2.0
+952,He father door,WEB,Task,Medium,In Progress,11,3,9,2025-04-08 14:10:29.632943,9,,8.3,7.7
+953,Each dream available,MOBILE,Bug,Medium,In Progress,10,1,8,2025-04-08 14:06:53.708594,10,,6.0,7.2
+954,Before present forget,DEV,Bug,Low,Done,2,2,3,2025-04-08 14:05:03.571409,7,2025-04-26 14:05:03.571409,11.1,5.7
+955,Low chance provide camera catch,DEV,Epic,Low,To Do,1,2,3,2025-04-08 14:08:44.962512,5,,5.0,0.0
+956,Resource analysis fund course point particularly,OPS,Story,Medium,To Do,1,2,10,2025-04-08 14:06:56.857536,2,,21.0,0.0
+957,Really sure former doctor,DEV,Task,High,Done,12,3,8,2025-04-08 14:04:38.913260,2,2025-04-12 14:04:38.913260,3.7,2.1
+958,Weight subject list,OPS,Story,Medium,Done,12,3,9,2025-04-08 14:06:09.166126,4,2025-04-12 14:06:09.166126,9.7,11.9
+959,Democrat off difference number later involve,DATA,Task,Low,In Review,14,2,2,2025-04-08 14:06:53.814704,10,,18.2,6.1
+960,Reality stock policy take,WEB,Task,High,In Progress,14,21,3,2025-04-08 14:06:31.561750,12,,19.5,3.5
+961,Table century letter side,OPS,Story,Medium,Done,9,8,8,2025-04-08 14:05:47.563710,2,2025-04-13 14:05:47.563710,23.1,17.4
+962,Nice we data site,DEV,Story,Critical,Done,1,13,2,2025-04-08 14:05:04.784710,12,2025-04-23 14:05:04.784710,28.5,27.6
+963,Take trade magazine magazine scene,OPS,Task,Medium,In Progress,3,5,8,2025-04-08 14:07:21.817060,13,,2.8,2.5
+964,Way movie project,OPS,Bug,Low,Done,12,1,5,2025-04-08 14:09:54.926610,13,2025-04-14 14:09:54.926610,4.1,4.4
+965,Catch loss machine,DEV,Bug,Medium,Done,2,2,6,2025-04-08 14:07:40.066929,8,2025-04-24 14:07:40.066929,3.4,0.3
+966,Effect score group,WEB,Story,Medium,To Do,15,1,10,2025-04-08 14:09:22.562192,10,,17.5,0.0
+967,Year there senior action no paper watch,MOBILE,Story,Low,To Do,15,21,4,2025-04-08 14:05:58.962044,7,,2.6,0.0
+968,Easy white itself,DEV,Task,High,Done,15,1,3,2025-04-08 14:07:40.646605,7,2025-04-22 14:07:40.646605,30.1,19.3
+969,Street low cut until art,DATA,Story,Low,Done,12,2,8,2025-04-08 14:08:38.577095,3,2025-04-22 14:08:38.577095,9.7,3.5
+970,Yet picture the whether,WEB,Story,Medium,In Progress,4,1,9,2025-04-08 14:09:50.937013,7,,37.6,42.8
+971,Training campaign everything bag accept,WEB,Story,Medium,Done,1,1,8,2025-04-08 14:04:48.178715,8,2025-04-24 14:04:48.178715,20.0,26.2
+972,Customer dog determine,DEV,Bug,Medium,Done,15,1,9,2025-04-08 14:06:11.513113,5,2025-04-12 14:06:11.513113,18.4,7.8
+973,Over maybe old east nearly,MOBILE,Task,Medium,Done,1,3,1,2025-04-08 14:04:46.941659,1,2025-04-19 14:04:46.941659,31.4,4.5
+974,Song shoulder security,OPS,Task,Low,Done,4,1,5,2025-04-08 14:06:15.008418,15,2025-04-27 14:06:15.008418,28.8,10.9
+975,Summer measure teacher,WEB,Bug,Low,Done,13,3,7,2025-04-08 14:05:45.401900,1,2025-04-27 14:05:45.401900,24.7,3.9
+976,Allow near spend ever,MOBILE,Story,Low,In Review,13,5,8,2025-04-08 14:10:30.784394,12,,37.5,18.1
+977,Public author support,MOBILE,Epic,High,Done,14,5,2,2025-04-08 14:08:02.172005,11,2025-04-16 14:08:02.172005,17.5,14.1
+978,Million establish wonder voice yeah,DEV,Task,Medium,Done,4,1,4,2025-04-08 14:10:20.991356,14,2025-04-18 14:10:20.991356,32.5,47.5
+979,Fund sister artist gun accept item,WEB,Epic,Medium,Done,7,8,7,2025-04-08 14:07:17.288309,4,2025-04-13 14:07:17.288309,15.8,9.5
+980,Whatever three little resource effect,DEV,Task,Low,In Progress,8,5,5,2025-04-08 14:08:49.351083,2,,33.7,11.1
+981,State source everybody room visit area,DEV,Task,Medium,To Do,13,1,1,2025-04-08 14:05:39.020403,7,,11.1,0.0
+982,Process face hundred our,DEV,Task,Low,In Progress,8,3,2,2025-04-08 14:08:34.445083,13,,12.3,3.1
+983,Number or dog few movement,DATA,Bug,Low,To Do,8,3,5,2025-04-08 14:05:22.566970,3,,27.4,0.0
+984,Shoulder pass production respond long list,DATA,Task,Medium,Done,14,2,6,2025-04-08 14:04:43.584793,12,2025-04-24 14:04:43.584793,9.3,2.4
+985,Near ok tell born return future,DEV,Task,Low,To Do,14,1,1,2025-04-08 14:05:14.525090,4,,9.9,0.0
+986,Stand industry into father cell give,DEV,Epic,Low,Done,12,3,3,2025-04-08 14:10:12.144765,9,2025-04-11 14:10:12.144765,12.9,3.7
+987,Determine report particular same subject nothing,DEV,Task,Low,Done,14,5,6,2025-04-08 14:06:39.129517,2,2025-04-18 14:06:39.129517,27.5,31.4
+988,Tree so myself character,OPS,Task,Medium,Done,9,1,6,2025-04-08 14:04:50.632707,12,2025-04-21 14:04:50.632707,35.7,3.3
+989,Audience perhaps support security both,WEB,Bug,Low,Done,1,3,7,2025-04-08 14:09:32.739004,8,2025-04-15 14:09:32.739004,27.3,40.8
+990,Reason manager follow still best,MOBILE,Epic,Critical,In Progress,9,2,10,2025-04-08 14:06:43.436946,1,,33.3,26.1
+991,Onto test brother less prevent,WEB,Task,Medium,In Progress,10,3,3,2025-04-08 14:09:48.141677,3,,22.2,18.1
+992,Forward there economy,MOBILE,Epic,High,To Do,8,2,1,2025-04-08 14:06:45.433016,4,,3.7,0.0
+993,Plan south act minute,DEV,Task,High,Done,1,2,7,2025-04-08 14:08:36.656934,14,2025-04-20 14:08:36.656934,4.9,2.6
+994,Ask notice you,DEV,Task,Low,In Progress,7,5,3,2025-04-08 14:08:53.339694,6,,22.6,23.4
+995,Place suddenly fear above,DEV,Story,Medium,Done,9,5,5,2025-04-08 14:06:39.292407,1,2025-04-22 14:06:39.292407,13.8,9.8
+996,Total special her yourself,WEB,Task,High,In Progress,4,2,4,2025-04-08 14:05:07.057187,14,,9.6,4.7
+997,Result answer style quality air job economic,DATA,Task,Medium,Done,13,2,1,2025-04-08 14:05:44.584744,8,2025-04-18 14:05:44.584744,19.2,7.6
+998,Area mention experience happy like yourself,DEV,Task,Low,Done,15,3,7,2025-04-08 14:08:50.614691,2,2025-04-17 14:08:50.614691,27.0,37.5
+999,People phone Republican,DEV,Task,Low,In Progress,13,5,4,2025-04-08 14:07:55.641126,5,,16.0,7.0
+1000,Live interesting industry already,DATA,Story,Critical,To Do,9,3,1,2025-04-08 14:07:15.504480,6,,32.3,0.0
