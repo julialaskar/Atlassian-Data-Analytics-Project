@@ -203,4 +203,5 @@ The combination of technical implementation (SQL/Python) and business-focused vi
 ---
 
 **Note:** The complete project including all code, SQL queries, and Tableau workbook is available in the linked Google Colab notebook and accompanying files. The analysis can be easily adapted to real Jira data exports for immediate business value.
-You can find it here https://colab.research.google.com/drive/1GFCXBP7L3gNNqEJam4mipRalIsLXpqig?authuser=0#scrollTo=KdTOk4EkIt-H
+You can find it here.
+https://colab.research.google.com/drive/1GFCXBP7L3gNNqEJam4mipRalIsLXpqig?usp=sharing
